@@ -74,7 +74,7 @@ Parallel — Sentinel Agent (hourly):
 ## Citation
 
 ```
-[Citation to be added upon publication]
+J. Lyu, D. Lai, H. Zhang, Z. Lian, LLM-Powered Agent for Occupant-Centric Indoor Environment Control: Design, Implementation, and Evaluation, Energy and Built Environment (2026). https://doi.org/10.1016/j.enbenv.2026.04.001.
 ```
 
 ---
