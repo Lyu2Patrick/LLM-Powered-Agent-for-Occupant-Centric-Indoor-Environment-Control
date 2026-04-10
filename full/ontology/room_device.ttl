@@ -1,0 +1,29 @@
+
+@prefix : <http://example.com/kg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# 办公室实例
+:Office a :Room ;
+    :hasName "办公室" ;
+    :hasDevice :dmaker_p5c_fan, :climate_211106243774073_climate, :yeelink_lamp22_60a7 .
+
+# 卧室实例
+:BedRoom a :Room ;
+    :hasName "卧室" ;
+    :hasDevice :AC2, :fan_dmaker_p8_086d_fan .
+
+# 设备实例（简要声明）
+:dmaker_p5c_fan a :Device ;
+    :hasName "Mijia Smart DC Standing Fan 1X Fan" .
+
+:climate_211106243774073_climate a :Device ;
+    :hasName "办公室空调" .
+
+:AC2 a :Device ;
+    :hasName "小米空调伴侣_AC2" .
+
+:fan_dmaker_p8_086d_fan a :Device ;
+    :hasName "卧室风扇 Fan2" .
+
+:yeelink_lamp22_60a7 a :Device ;
+    :hasName "办公室台灯" .

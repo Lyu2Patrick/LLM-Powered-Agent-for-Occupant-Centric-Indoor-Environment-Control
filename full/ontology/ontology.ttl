@@ -1,0 +1,83 @@
+
+@prefix :    <http://example.com/kg#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# —— 类（Classes） ——
+:Room          a owl:Class .
+:Device        a owl:Class .
+:User          a owl:Class .
+:Context       a owl:Class .
+:FeedbackEvent a owl:Class .
+:EntryEvent    a owl:Class .
+
+# —— 对象属性（ObjectProperties） ——
+:hasDevice      a owl:ObjectProperty;
+    rdfs:domain :Room;
+    rdfs:range  :Device .
+
+:byUser         a owl:ObjectProperty;
+    rdfs:domain :FeedbackEvent;
+    rdfs:range  :User .
+
+:inContext      a owl:ObjectProperty;
+    rdfs:domain :FeedbackEvent;
+    rdfs:range  :Context .
+
+:triggeredBy    a owl:ObjectProperty;
+    rdfs:domain :EntryEvent;
+    rdfs:range  :User .
+
+:enteredRoom    a owl:ObjectProperty;
+    rdfs:domain :EntryEvent;
+    rdfs:range  :Room .
+
+# —— 数据属性（DatatypeProperties） ——
+:hasName        a owl:DatatypeProperty;
+    rdfs:domain  [ owl:unionOf ( :Room :Device :User :Context ) ];
+    rdfs:range   xsd:string .
+
+:prefersTS      a owl:DatatypeProperty;
+    rdfs:domain  :User;
+    rdfs:range   xsd:float .
+
+:sensor_T_air   a owl:DatatypeProperty;
+    rdfs:domain  :FeedbackEvent;
+    rdfs:range   xsd:float .
+
+:sensor_V_air   a owl:DatatypeProperty;
+    rdfs:domain  :FeedbackEvent;
+    rdfs:range   xsd:float .
+
+:sensor_T_skin  a owl:DatatypeProperty;
+    rdfs:domain  :FeedbackEvent;
+    rdfs:range   xsd:float .
+
+:atTime a owl:DatatypeProperty ;
+    rdfs:domain [ owl:unionOf ( :FeedbackEvent :EntryEvent ) ] ;
+    rdfs:range  xsd:dateTime .
+
+:hasFeedback    a owl:DatatypeProperty;
+    rdfs:domain  :FeedbackEvent;
+    rdfs:range   xsd:string .
+
+:nfcTagId       a owl:DatatypeProperty;
+    rdfs:domain  :EntryEvent;
+    rdfs:range   xsd:string .
+
+:gender   a owl:DatatypeProperty ;
+          rdfs:domain :User ;
+          rdfs:range  xsd:string .
+
+:heightCm a owl:DatatypeProperty ;
+          rdfs:domain :User ;
+          rdfs:range  xsd:int .
+
+:weightKg a owl:DatatypeProperty ;
+          rdfs:domain :User ;
+          rdfs:range  xsd:int .
+
+:age      a owl:DatatypeProperty ;
+          rdfs:domain :User ;
+          rdfs:range  xsd:int .

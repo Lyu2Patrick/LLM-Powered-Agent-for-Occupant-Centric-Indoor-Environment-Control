@@ -1,0 +1,14 @@
+@prefix :    <http://example.com/kg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# User profile for the primary study participant (anonymized for publication).
+# Personal identifiers (name, email) have been removed.
+
+:User01 a :User ;
+    :hasName        "Participant01" ;
+    :age            "27"^^xsd:int ;
+    :gender         "male" ;
+    :heightCm       "187"^^xsd:int ;
+    :weightKg       "80"^^xsd:int ;
+    :prefersNoiseDb "<=55" ;
+    :prefersTS      -0.5 .

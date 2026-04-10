@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# API keys — NEVER commit these
+.env
+*.env
+key
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+._*
+
+# Pytest / test cache
+.pytest_cache/
+
+# Runtime logs (regenerated on each run)
+entry_log.txt
+latest_sentence.txt

@@ -1,0 +1,62 @@
+@prefix :    <http://example.com/kg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# 1. 壁挂式空调 (climate.211106243774073_climate)
+:climate_211106243774073_climate a :Device ;
+    :hasName  "办公室壁挂式空调" ;
+    :entityId "climate.211106243774073_climate" ;
+
+    :hasNumericProperty [
+        :propertyName "target_temperature" ;
+        :minValue 17.0 ; :maxValue 30.0 ; :step 0.5
+    ] ;
+    :hasNumericProperty [
+        :propertyName "fan_speed" ;
+        :minValue 0 ; :maxValue 102 ; :step 1
+    ] ;
+
+    :supportsHvacMode  "off", "auto", "cool", "dry", "heat", "fan_only" ;
+    :supportsFanMode   "Silent", "Low", "Medium", "High", "Full", "Auto" ;
+    :supportsSwingMode "Off", "Vertical", "Horizontal", "Both" ;
+    :supportsPresetMode "none", "comfort", "eco", "boost", "sleep", "away" .
+
+# 2. 办公室风扇 (Mijia Smart DC Standing Fan)
+:dmaker_p5c_fan a :Device ;
+    :hasName  "Mijia Smart DC Standing Fan 1X Fan" ;
+    :entityId "fan.dmaker_p5c_a6a0_fan" ;
+
+    :hasNumericProperty [
+        :propertyName "percentage" ;
+        :minValue 0 ; :maxValue 100 ; :step 1
+    ] ;
+
+    :supportsMode "Straight Wind", "Natural Wind" ;
+    :supportsOscillation false ;
+    :supportsSwingAngle 90 ;
+    :hasProperty :off_delay_time, :physical_controls_locked .
+
+# 3. 卧室风扇 Fan2
+:fan_dmaker_p8_086d a :Device ;
+    :hasName  "卧室风扇 Fan2" ;
+    :entityId "fan.dmaker_p8_086d_fan" ;
+
+    :hasNumericProperty [
+        :propertyName "percentage" ;
+        :minValue 0 ; :maxValue 99 ; :step 33
+    ] ;
+
+    :supportsMode "Straight Wind", "Sleep" ;
+    :supportsOscillation true ;
+    :hasProperty :off_delay_time, :alarm, :indicator_light .
+
+# 4. 办公室台灯
+:yeelink_lamp22_60a7 a :Device ;
+    :hasName  "Mi Smart Computer Monitor Light Bar 1S" ;
+    :entityId "light.yeelink_lamp22_60a7_light" ;
+
+    :hasNumericProperty [
+        :propertyName "color_temp" ;
+        :minValue 2702 ; :maxValue 6493 ; :step 1
+    ] ;
+
+    :supportsMode "Reading", "Office", "Leisure", "Warmth", "Computer" .

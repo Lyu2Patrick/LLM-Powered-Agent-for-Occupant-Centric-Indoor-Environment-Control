@@ -1,0 +1,6865 @@
+[
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_01",
+    "sentence": "I feel a bit warm, can you adjust?",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_02",
+    "sentence": "The room feels hot without the temperature reading.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_03",
+    "sentence": "Please cool it down — I'm sweating.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_04",
+    "sentence": "Analyze thermal comfort and make adjustments.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_05",
+    "sentence": "The AC feels too cold — please raise the setpoint a bit.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_06",
+    "sentence": "I just came in from outside and it's warm.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_07",
+    "sentence": "Can you estimate the temperature from skin data and adjust?",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_08",
+    "sentence": "Is the thermal environment okay right now?",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_09",
+    "sentence": "It feels like the temperature sensor stopped working.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_10",
+    "sentence": "Please do the best you can without the air temperature.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_11",
+    "sentence": "I want to be comfortable — start with temperature control.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_12",
+    "sentence": "Lower the cooling intensity, it feels over-chilled.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_13",
+    "sentence": "Please check if I need more heating or cooling.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_14",
+    "sentence": "I feel thermally uncomfortable.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_15",
+    "sentence": "Adjust the AC based on whatever you can read.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_16",
+    "sentence": "It's hard to breathe properly — temperature control needed.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_17",
+    "sentence": "Something thermal feels off.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_18",
+    "sentence": "Help me feel cooler without the indoor temperature reading.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_19",
+    "sentence": "The room might be too warm. Can you verify?",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tair_20",
+    "sentence": "Make the environment more comfortable for me.",
+    "state": {
+      "T_air": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_01",
+    "sentence": "Analyze my thermal comfort without the skin temperature.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_02",
+    "sentence": "I feel warm but not sure how warm my skin is.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_03",
+    "sentence": "The skin sensor is offline. Adjust the environment anyway.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_04",
+    "sentence": "I feel cold — the AC might be too strong.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_05",
+    "sentence": "Just use indoor temperature to decide.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_06",
+    "sentence": "Please help me feel comfortable.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_07",
+    "sentence": "The wearable sensor is not working. Adjust for typical person.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_08",
+    "sentence": "Is the environment comfortable based on air data alone?",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_09",
+    "sentence": "I'm slightly overheated. Cool things down a bit.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_10",
+    "sentence": "The skin temperature data is missing today.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_11",
+    "sentence": "Estimate my comfort from air conditions only.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_12",
+    "sentence": "I feel sweaty — environment might be too warm.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_13",
+    "sentence": "Lower the temperature a little — I feel warm.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_14",
+    "sentence": "The room feels too cool for me.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_15",
+    "sentence": "Do a thermal assessment without skin temp.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_16",
+    "sentence": "Please make an adjustment based on what you have.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_17",
+    "sentence": "I'm uncomfortable thermally but can't tell you why exactly.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_18",
+    "sentence": "Help me get to a comfortable temperature.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_19",
+    "sentence": "The sensor on my wrist broke. Adjust accordingly.",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_Tskin_20",
+    "sentence": "Without skin temp, can you still help me?",
+    "state": {
+      "T_skin": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_01",
+    "sentence": "The air feels dry and my lips are chapping.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_02",
+    "sentence": "It feels very damp inside — like after a shower.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_03",
+    "sentence": "The humidity sensor seems off. Still help me.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_04",
+    "sentence": "Should I use dehumidification mode right now?",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_05",
+    "sentence": "My wooden furniture is warping — too humid maybe?",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_06",
+    "sentence": "The room feels stuffy without humidity data.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_07",
+    "sentence": "Help me manage humidity-related discomfort.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_08",
+    "sentence": "I think the air is too dry for my nose.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_09",
+    "sentence": "It feels clammy in here.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_10",
+    "sentence": "Please do a humidity assessment without sensor data.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_11",
+    "sentence": "I'm sneezing a lot — might be dry air.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_12",
+    "sentence": "The windows are fogging up — is it too humid?",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_13",
+    "sentence": "Adjust for typical comfort without humidity reading.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_14",
+    "sentence": "I want the air to feel fresher.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_15",
+    "sentence": "The air feels thick and wet.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_16",
+    "sentence": "Can you still dehumidify even without the RH sensor?",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_17",
+    "sentence": "Something about the air feels off — possibly humidity.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_18",
+    "sentence": "I feel like there's a lot of moisture in the air.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_19",
+    "sentence": "Dry air is hurting my throat.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_humidity_20",
+    "sentence": "The room feels stuffy and humid. Please fix it.",
+    "state": {
+      "humidity": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_01",
+    "sentence": "The room has been sealed all day. Is the air okay?",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_02",
+    "sentence": "I feel drowsy — maybe CO₂ is high?",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_03",
+    "sentence": "Several people have been here for hours.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_04",
+    "sentence": "Can you improve ventilation without CO₂ data?",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_05",
+    "sentence": "I feel like the air quality is not great.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_06",
+    "sentence": "The CO₂ sensor seems to be malfunctioning.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_07",
+    "sentence": "People keep yawning — air might be stale.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_08",
+    "sentence": "I can't focus — maybe the air needs refreshing.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_09",
+    "sentence": "Please ensure proper ventilation without CO₂ reading.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_10",
+    "sentence": "The room smells slightly stale.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_11",
+    "sentence": "Help me breathe better in here.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_12",
+    "sentence": "Should the window be opened based on other data?",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_13",
+    "sentence": "I feel lethargic — could be poor air circulation.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_14",
+    "sentence": "The air feels dead and unmoving.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_15",
+    "sentence": "Please help me with ventilation.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_16",
+    "sentence": "The CO₂ sensor is broken — make a best estimate.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_17",
+    "sentence": "Suggest an action for air quality without CO₂.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_18",
+    "sentence": "Something about the air feels off.",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_19",
+    "sentence": "Is it safe to stay here with the CO₂ sensor down?",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_CO2_20",
+    "sentence": "I'm feeling a bit dizzy — air quality concern?",
+    "state": {
+      "CO2": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_01",
+    "sentence": "It's smoggy outside — should I run the purifier?",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_02",
+    "sentence": "My nose feels itchy — could be dust.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_03",
+    "sentence": "Someone was smoking near the ventilation inlet.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_04",
+    "sentence": "Should the purifier run even without PM2.5 data?",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_05",
+    "sentence": "The air looks hazy indoors.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_06",
+    "sentence": "I'm allergic to dust — please help.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_07",
+    "sentence": "Is the air quality safe without the PM sensor?",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_08",
+    "sentence": "Make a purifier decision based on other air data.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_09",
+    "sentence": "The PM2.5 sensor seems to have failed.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_10",
+    "sentence": "I can see particles in the sunlight beam indoors.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_11",
+    "sentence": "Please clean the air for me.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_12",
+    "sentence": "Someone nearby is doing woodworking.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_13",
+    "sentence": "A smoky smell came through the ventilation.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_14",
+    "sentence": "Please run the purifier as a precaution.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_15",
+    "sentence": "The outdoor air is heavily polluted today.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_16",
+    "sentence": "I want clean air even without the PM sensor.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_17",
+    "sentence": "Can you protect me from potential particles?",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_18",
+    "sentence": "The air filter probably needs to run.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_19",
+    "sentence": "Please help with air quality based on TVOC and CO₂.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_PM25_20",
+    "sentence": "My breathing feels slightly irritated.",
+    "state": {
+      "PM25": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_01",
+    "sentence": "There's a chemical smell — possibly formaldehyde.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_02",
+    "sentence": "We just painted the office wall.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_03",
+    "sentence": "New furniture was delivered today — might off-gas.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_04",
+    "sentence": "The TVOC sensor is offline. Please help anyway.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_05",
+    "sentence": "I smell something chemical in the air.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_06",
+    "sentence": "Should I run the purifier without TVOC data?",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_07",
+    "sentence": "The air has an artificial smell.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_08",
+    "sentence": "Cleaning products were used nearby.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_09",
+    "sentence": "Please protect from VOCs based on other readings.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_10",
+    "sentence": "The air quality sensor for VOCs failed.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_11",
+    "sentence": "There's a faint glue smell — could be adhesive.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_12",
+    "sentence": "A printer is running heavily today.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_13",
+    "sentence": "We're using cleaning solvents nearby.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_14",
+    "sentence": "Please ensure VOC-related protection.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_15",
+    "sentence": "The TVOC sensor failed — make a best guess.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_16",
+    "sentence": "Make a decision on purifier without TVOC.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_17",
+    "sentence": "Is the air quality safe without TVOC data?",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_18",
+    "sentence": "I want the freshest possible air.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_19",
+    "sentence": "Please run the purifier at a reasonable level.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_TVOC_20",
+    "sentence": "Protect me from VOCs based on PM2.5 data only.",
+    "state": {
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_01",
+    "sentence": "It's too loud in here. Can you reduce device sound?",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_02",
+    "sentence": "I need silence for a video call.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_03",
+    "sentence": "Please minimize indoor noise from devices.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_04",
+    "sentence": "There's construction outside — please minimize fan noise.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_05",
+    "sentence": "The noise sensor failed. Make sound-related adjustments.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_06",
+    "sentence": "I want the quietest possible device configuration.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_07",
+    "sentence": "I can hear the fan from across the room.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_08",
+    "sentence": "Please set devices to their quietest mode.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_09",
+    "sentence": "I'm trying to concentrate — reduce all device noise.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_10",
+    "sentence": "The noise level sensor is down.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_11",
+    "sentence": "The purifier is too loud at night.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_12",
+    "sentence": "Turn off noisy devices please.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_13",
+    "sentence": "I need a quieter room for sleeping.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_14",
+    "sentence": "The air conditioning noise is bothering me.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_15",
+    "sentence": "Please reduce all device speeds to minimize noise.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_16",
+    "sentence": "I have a headache — please keep things quiet.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_17",
+    "sentence": "Even with no noise data, please minimize sound.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_18",
+    "sentence": "The devices are too loud for my meeting.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_19",
+    "sentence": "Please prioritize quiet operation over other factors.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_noise_20",
+    "sentence": "I find device noise very distracting today.",
+    "state": {
+      "noise_db": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_01",
+    "sentence": "It's getting dark outside — adjust the lighting.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_02",
+    "sentence": "The light sensor broke — still help me with lighting.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_03",
+    "sentence": "I want brighter light to read comfortably.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_04",
+    "sentence": "The room feels dim — please increase brightness.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_05",
+    "sentence": "Please set the lighting based on time of day.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_06",
+    "sentence": "I prefer warm lighting in the evening.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_07",
+    "sentence": "Set the lights for office work without the sensor.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_08",
+    "sentence": "I need cool white light for focusing.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_09",
+    "sentence": "Make the room lighting comfortable for me.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_10",
+    "sentence": "Dim the lights slightly for relaxation.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_11",
+    "sentence": "The light sensor is offline — use defaults.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_12",
+    "sentence": "I want a bright, alert lighting environment.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_13",
+    "sentence": "Set light to 80% warm white please.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_14",
+    "sentence": "The illuminance sensor is malfunctioning.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_15",
+    "sentence": "Estimate lighting needs from time and context.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_16",
+    "sentence": "I want the lights set for reading a physical book.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_17",
+    "sentence": "Turn on the light at a reasonable brightness.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_18",
+    "sentence": "Optimize lighting without the sensor data.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_19",
+    "sentence": "Cool and bright light please, for concentration.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_lux_20",
+    "sentence": "Please adjust lighting for my comfort.",
+    "state": {
+      "lux": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_01",
+    "sentence": "Should I open the window for fresh air?",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_02",
+    "sentence": "Can I ventilate without outdoor weather data?",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_03",
+    "sentence": "I want fresh air — is opening windows advisable?",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_04",
+    "sentence": "The outdoor sensors failed. Suggest ventilation.",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_05",
+    "sentence": "Is it safe to ventilate without knowing outdoor conditions?",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_06",
+    "sentence": "I want to open a window — any concerns?",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_07",
+    "sentence": "Suggest window action without outdoor data.",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_08",
+    "sentence": "Please make a ventilation recommendation.",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_09",
+    "sentence": "I think the outdoor air might be fresh today.",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_10",
+    "sentence": "Can you estimate outdoor conditions from other data?",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_11",
+    "sentence": "Is the outdoor temperature likely comfortable?",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_12",
+    "sentence": "Help me decide whether to ventilate naturally.",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_13",
+    "sentence": "I prefer natural ventilation when possible.",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_14",
+    "sentence": "Can I rely on outdoor air today?",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_15",
+    "sentence": "Should I keep windows closed without outdoor readings?",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_16",
+    "sentence": "The outdoor sensors are offline.",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_17",
+    "sentence": "Please optimize without outdoor conditions.",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_18",
+    "sentence": "I'd like to open the window if safe.",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_19",
+    "sentence": "Make a best-effort recommendation on ventilation.",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_outdoor_20",
+    "sentence": "Use indoor data to infer outdoor conditions.",
+    "state": {
+      "OUTTEMP": null,
+      "OUTHUMID": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_01",
+    "sentence": "All air quality sensors are down. Help me anyway.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_02",
+    "sentence": "Please protect air quality without sensor data.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_03",
+    "sentence": "Should the purifier run without any air data?",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_04",
+    "sentence": "I feel like the air might be poor — any action?",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_05",
+    "sentence": "Make a conservative air quality decision.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_06",
+    "sentence": "I want fresh air but all sensors failed.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_07",
+    "sentence": "The room might be stuffy — please assess from context.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_08",
+    "sentence": "Run the purifier as a precaution please.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_09",
+    "sentence": "Optimize everything except air quality for now.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_10",
+    "sentence": "Without air sensors, what devices should run?",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_11",
+    "sentence": "I feel slightly off — could be air quality.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_12",
+    "sentence": "Please do a holistic adjustment without air data.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_13",
+    "sentence": "Just assume medium air quality and act accordingly.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_14",
+    "sentence": "My breathing feels a bit labored.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_15",
+    "sentence": "The CO₂, PM2.5, and TVOC sensors all failed today.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_16",
+    "sentence": "Please set the purifier to a reasonable default level.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_17",
+    "sentence": "I'm worried about indoor air — please help.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_18",
+    "sentence": "Without air data, how do you manage air quality?",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_19",
+    "sentence": "Set purifier to medium as a safe default.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "sensor_missing",
+    "name": "sm_no_air_quality_all_20",
+    "sentence": "Please protect my health without air quality data.",
+    "state": {
+      "CO2": null,
+      "PM25": null,
+      "TVOC": null
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_100p0_1",
+    "sentence": "Adjust the AC based on current conditions.",
+    "state": {
+      "T_air": 100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_100p0_2",
+    "sentence": "I feel uncomfortable thermally. Help me.",
+    "state": {
+      "T_air": 100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_100p0_3",
+    "sentence": "How is the indoor temperature right now?",
+    "state": {
+      "T_air": 100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_100p0_4",
+    "sentence": "Please analyze and control the environment.",
+    "state": {
+      "T_air": 100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_100p0_5",
+    "sentence": "The room still feels hot despite AC running.",
+    "state": {
+      "T_air": 100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_m20p0_1",
+    "sentence": "Adjust the AC based on current conditions.",
+    "state": {
+      "T_air": -20.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_m20p0_2",
+    "sentence": "I feel uncomfortable thermally. Help me.",
+    "state": {
+      "T_air": -20.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_m20p0_3",
+    "sentence": "How is the indoor temperature right now?",
+    "state": {
+      "T_air": -20.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_m20p0_4",
+    "sentence": "Please analyze and control the environment.",
+    "state": {
+      "T_air": -20.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_m20p0_5",
+    "sentence": "The room still feels hot despite AC running.",
+    "state": {
+      "T_air": -20.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_70p0_1",
+    "sentence": "Adjust the AC based on current conditions.",
+    "state": {
+      "T_air": 70.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_70p0_2",
+    "sentence": "I feel uncomfortable thermally. Help me.",
+    "state": {
+      "T_air": 70.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_70p0_3",
+    "sentence": "How is the indoor temperature right now?",
+    "state": {
+      "T_air": 70.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_70p0_4",
+    "sentence": "Please analyze and control the environment.",
+    "state": {
+      "T_air": 70.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_70p0_5",
+    "sentence": "The room still feels hot despite AC running.",
+    "state": {
+      "T_air": 70.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_500p0_1",
+    "sentence": "Adjust the AC based on current conditions.",
+    "state": {
+      "T_air": 500.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_500p0_2",
+    "sentence": "I feel uncomfortable thermally. Help me.",
+    "state": {
+      "T_air": 500.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_500p0_3",
+    "sentence": "How is the indoor temperature right now?",
+    "state": {
+      "T_air": 500.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_500p0_4",
+    "sentence": "Please analyze and control the environment.",
+    "state": {
+      "T_air": 500.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_500p0_5",
+    "sentence": "The room still feels hot despite AC running.",
+    "state": {
+      "T_air": 500.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_m50p0_1",
+    "sentence": "Adjust the AC based on current conditions.",
+    "state": {
+      "T_air": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_m50p0_2",
+    "sentence": "I feel uncomfortable thermally. Help me.",
+    "state": {
+      "T_air": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_m50p0_3",
+    "sentence": "How is the indoor temperature right now?",
+    "state": {
+      "T_air": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_m50p0_4",
+    "sentence": "Please analyze and control the environment.",
+    "state": {
+      "T_air": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tair_m50p0_5",
+    "sentence": "The room still feels hot despite AC running.",
+    "state": {
+      "T_air": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_5p0_1",
+    "sentence": "Analyze my thermal comfort from skin temperature.",
+    "state": {
+      "T_skin": 5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_5p0_2",
+    "sentence": "How comfortable am I based on current readings?",
+    "state": {
+      "T_skin": 5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_5p0_3",
+    "sentence": "Please adjust for my physiological state.",
+    "state": {
+      "T_skin": 5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_5p0_4",
+    "sentence": "Use skin temperature to judge thermal needs.",
+    "state": {
+      "T_skin": 5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_5p0_5",
+    "sentence": "Do a thermal assessment and adjust.",
+    "state": {
+      "T_skin": 5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_45p0_1",
+    "sentence": "Analyze my thermal comfort from skin temperature.",
+    "state": {
+      "T_skin": 45.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_45p0_2",
+    "sentence": "How comfortable am I based on current readings?",
+    "state": {
+      "T_skin": 45.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_45p0_3",
+    "sentence": "Please adjust for my physiological state.",
+    "state": {
+      "T_skin": 45.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_45p0_4",
+    "sentence": "Use skin temperature to judge thermal needs.",
+    "state": {
+      "T_skin": 45.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_45p0_5",
+    "sentence": "Do a thermal assessment and adjust.",
+    "state": {
+      "T_skin": 45.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_0p0_1",
+    "sentence": "Analyze my thermal comfort from skin temperature.",
+    "state": {
+      "T_skin": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_0p0_2",
+    "sentence": "How comfortable am I based on current readings?",
+    "state": {
+      "T_skin": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_0p0_3",
+    "sentence": "Please adjust for my physiological state.",
+    "state": {
+      "T_skin": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_0p0_4",
+    "sentence": "Use skin temperature to judge thermal needs.",
+    "state": {
+      "T_skin": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_0p0_5",
+    "sentence": "Do a thermal assessment and adjust.",
+    "state": {
+      "T_skin": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_50p0_1",
+    "sentence": "Analyze my thermal comfort from skin temperature.",
+    "state": {
+      "T_skin": 50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_50p0_2",
+    "sentence": "How comfortable am I based on current readings?",
+    "state": {
+      "T_skin": 50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_50p0_3",
+    "sentence": "Please adjust for my physiological state.",
+    "state": {
+      "T_skin": 50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_50p0_4",
+    "sentence": "Use skin temperature to judge thermal needs.",
+    "state": {
+      "T_skin": 50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_50p0_5",
+    "sentence": "Do a thermal assessment and adjust.",
+    "state": {
+      "T_skin": 50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_m5p0_1",
+    "sentence": "Analyze my thermal comfort from skin temperature.",
+    "state": {
+      "T_skin": -5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_m5p0_2",
+    "sentence": "How comfortable am I based on current readings?",
+    "state": {
+      "T_skin": -5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_m5p0_3",
+    "sentence": "Please adjust for my physiological state.",
+    "state": {
+      "T_skin": -5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_m5p0_4",
+    "sentence": "Use skin temperature to judge thermal needs.",
+    "state": {
+      "T_skin": -5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_Tskin_m5p0_5",
+    "sentence": "Do a thermal assessment and adjust.",
+    "state": {
+      "T_skin": -5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_0p0_1",
+    "sentence": "Adjust the AC based on temperature and humidity.",
+    "state": {
+      "humidity": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_0p0_2",
+    "sentence": "It feels very humid in here.",
+    "state": {
+      "humidity": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_0p0_3",
+    "sentence": "I want to reduce the humidity level.",
+    "state": {
+      "humidity": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_0p0_4",
+    "sentence": "How is the humidity environment?",
+    "state": {
+      "humidity": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_0p0_5",
+    "sentence": "Is dehumidification needed right now?",
+    "state": {
+      "humidity": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_102p0_1",
+    "sentence": "Adjust the AC based on temperature and humidity.",
+    "state": {
+      "humidity": 102.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_102p0_2",
+    "sentence": "It feels very humid in here.",
+    "state": {
+      "humidity": 102.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_102p0_3",
+    "sentence": "I want to reduce the humidity level.",
+    "state": {
+      "humidity": 102.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_102p0_4",
+    "sentence": "How is the humidity environment?",
+    "state": {
+      "humidity": 102.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_102p0_5",
+    "sentence": "Is dehumidification needed right now?",
+    "state": {
+      "humidity": 102.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_150p0_1",
+    "sentence": "Adjust the AC based on temperature and humidity.",
+    "state": {
+      "humidity": 150.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_150p0_2",
+    "sentence": "It feels very humid in here.",
+    "state": {
+      "humidity": 150.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_150p0_3",
+    "sentence": "I want to reduce the humidity level.",
+    "state": {
+      "humidity": 150.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_150p0_4",
+    "sentence": "How is the humidity environment?",
+    "state": {
+      "humidity": 150.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_150p0_5",
+    "sentence": "Is dehumidification needed right now?",
+    "state": {
+      "humidity": 150.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_200p0_1",
+    "sentence": "Adjust the AC based on temperature and humidity.",
+    "state": {
+      "humidity": 200.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_200p0_2",
+    "sentence": "It feels very humid in here.",
+    "state": {
+      "humidity": 200.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_200p0_3",
+    "sentence": "I want to reduce the humidity level.",
+    "state": {
+      "humidity": 200.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_200p0_4",
+    "sentence": "How is the humidity environment?",
+    "state": {
+      "humidity": 200.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_200p0_5",
+    "sentence": "Is dehumidification needed right now?",
+    "state": {
+      "humidity": 200.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_m10p0_1",
+    "sentence": "Adjust the AC based on temperature and humidity.",
+    "state": {
+      "humidity": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_m10p0_2",
+    "sentence": "It feels very humid in here.",
+    "state": {
+      "humidity": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_m10p0_3",
+    "sentence": "I want to reduce the humidity level.",
+    "state": {
+      "humidity": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_m10p0_4",
+    "sentence": "How is the humidity environment?",
+    "state": {
+      "humidity": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_RH_m10p0_5",
+    "sentence": "Is dehumidification needed right now?",
+    "state": {
+      "humidity": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_9999p0_1",
+    "sentence": "How is the CO₂ level?",
+    "state": {
+      "CO2": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_9999p0_2",
+    "sentence": "Is the air quality safe?",
+    "state": {
+      "CO2": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_9999p0_3",
+    "sentence": "Please assess all environmental parameters.",
+    "state": {
+      "CO2": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_9999p0_4",
+    "sentence": "Do I need to ventilate?",
+    "state": {
+      "CO2": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_9999p0_5",
+    "sentence": "The CO₂ reading looks strange.",
+    "state": {
+      "CO2": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_20000p0_1",
+    "sentence": "How is the CO₂ level?",
+    "state": {
+      "CO2": 20000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_20000p0_2",
+    "sentence": "Is the air quality safe?",
+    "state": {
+      "CO2": 20000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_20000p0_3",
+    "sentence": "Please assess all environmental parameters.",
+    "state": {
+      "CO2": 20000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_20000p0_4",
+    "sentence": "Do I need to ventilate?",
+    "state": {
+      "CO2": 20000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_20000p0_5",
+    "sentence": "The CO₂ reading looks strange.",
+    "state": {
+      "CO2": 20000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_99999p0_1",
+    "sentence": "How is the CO₂ level?",
+    "state": {
+      "CO2": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_99999p0_2",
+    "sentence": "Is the air quality safe?",
+    "state": {
+      "CO2": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_99999p0_3",
+    "sentence": "Please assess all environmental parameters.",
+    "state": {
+      "CO2": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_99999p0_4",
+    "sentence": "Do I need to ventilate?",
+    "state": {
+      "CO2": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_99999p0_5",
+    "sentence": "The CO₂ reading looks strange.",
+    "state": {
+      "CO2": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_0p0_1",
+    "sentence": "How is the CO₂ level?",
+    "state": {
+      "CO2": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_0p0_2",
+    "sentence": "Is the air quality safe?",
+    "state": {
+      "CO2": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_0p0_3",
+    "sentence": "Please assess all environmental parameters.",
+    "state": {
+      "CO2": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_0p0_4",
+    "sentence": "Do I need to ventilate?",
+    "state": {
+      "CO2": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_0p0_5",
+    "sentence": "The CO₂ reading looks strange.",
+    "state": {
+      "CO2": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_m100p0_1",
+    "sentence": "How is the CO₂ level?",
+    "state": {
+      "CO2": -100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_m100p0_2",
+    "sentence": "Is the air quality safe?",
+    "state": {
+      "CO2": -100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_m100p0_3",
+    "sentence": "Please assess all environmental parameters.",
+    "state": {
+      "CO2": -100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_m100p0_4",
+    "sentence": "Do I need to ventilate?",
+    "state": {
+      "CO2": -100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_CO2_m100p0_5",
+    "sentence": "The CO₂ reading looks strange.",
+    "state": {
+      "CO2": -100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_9999p0_1",
+    "sentence": "Is it necessary to run the air purifier?",
+    "state": {
+      "PM25": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_9999p0_2",
+    "sentence": "Please assess the pollutant levels.",
+    "state": {
+      "PM25": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_9999p0_3",
+    "sentence": "How is the particulate matter situation?",
+    "state": {
+      "PM25": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_9999p0_4",
+    "sentence": "Should the purifier run at maximum?",
+    "state": {
+      "PM25": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_9999p0_5",
+    "sentence": "The PM2.5 value looks abnormal.",
+    "state": {
+      "PM25": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_99999p0_1",
+    "sentence": "Is it necessary to run the air purifier?",
+    "state": {
+      "PM25": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_99999p0_2",
+    "sentence": "Please assess the pollutant levels.",
+    "state": {
+      "PM25": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_99999p0_3",
+    "sentence": "How is the particulate matter situation?",
+    "state": {
+      "PM25": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_99999p0_4",
+    "sentence": "Should the purifier run at maximum?",
+    "state": {
+      "PM25": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_99999p0_5",
+    "sentence": "The PM2.5 value looks abnormal.",
+    "state": {
+      "PM25": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_m10p0_1",
+    "sentence": "Is it necessary to run the air purifier?",
+    "state": {
+      "PM25": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_m10p0_2",
+    "sentence": "Please assess the pollutant levels.",
+    "state": {
+      "PM25": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_m10p0_3",
+    "sentence": "How is the particulate matter situation?",
+    "state": {
+      "PM25": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_m10p0_4",
+    "sentence": "Should the purifier run at maximum?",
+    "state": {
+      "PM25": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_m10p0_5",
+    "sentence": "The PM2.5 value looks abnormal.",
+    "state": {
+      "PM25": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_m100p0_1",
+    "sentence": "Is it necessary to run the air purifier?",
+    "state": {
+      "PM25": -100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_m100p0_2",
+    "sentence": "Please assess the pollutant levels.",
+    "state": {
+      "PM25": -100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_m100p0_3",
+    "sentence": "How is the particulate matter situation?",
+    "state": {
+      "PM25": -100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_m100p0_4",
+    "sentence": "Should the purifier run at maximum?",
+    "state": {
+      "PM25": -100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_m100p0_5",
+    "sentence": "The PM2.5 value looks abnormal.",
+    "state": {
+      "PM25": -100.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_9999999p0_1",
+    "sentence": "Is it necessary to run the air purifier?",
+    "state": {
+      "PM25": 9999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_9999999p0_2",
+    "sentence": "Please assess the pollutant levels.",
+    "state": {
+      "PM25": 9999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_9999999p0_3",
+    "sentence": "How is the particulate matter situation?",
+    "state": {
+      "PM25": 9999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_9999999p0_4",
+    "sentence": "Should the purifier run at maximum?",
+    "state": {
+      "PM25": 9999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_PM25_9999999p0_5",
+    "sentence": "The PM2.5 value looks abnormal.",
+    "state": {
+      "PM25": 9999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_99999p0_1",
+    "sentence": "How does the TVOC level look?",
+    "state": {
+      "TVOC": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_99999p0_2",
+    "sentence": "Is there a VOC problem in the room?",
+    "state": {
+      "TVOC": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_99999p0_3",
+    "sentence": "Please protect air quality from VOCs.",
+    "state": {
+      "TVOC": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_99999p0_4",
+    "sentence": "The TVOC sensor shows an extreme value.",
+    "state": {
+      "TVOC": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_99999p0_5",
+    "sentence": "Should I be concerned about VOC levels?",
+    "state": {
+      "TVOC": 99999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_m50p0_1",
+    "sentence": "How does the TVOC level look?",
+    "state": {
+      "TVOC": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_m50p0_2",
+    "sentence": "Is there a VOC problem in the room?",
+    "state": {
+      "TVOC": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_m50p0_3",
+    "sentence": "Please protect air quality from VOCs.",
+    "state": {
+      "TVOC": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_m50p0_4",
+    "sentence": "The TVOC sensor shows an extreme value.",
+    "state": {
+      "TVOC": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_m50p0_5",
+    "sentence": "Should I be concerned about VOC levels?",
+    "state": {
+      "TVOC": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_0p0_1",
+    "sentence": "How does the TVOC level look?",
+    "state": {
+      "TVOC": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_0p0_2",
+    "sentence": "Is there a VOC problem in the room?",
+    "state": {
+      "TVOC": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_0p0_3",
+    "sentence": "Please protect air quality from VOCs.",
+    "state": {
+      "TVOC": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_0p0_4",
+    "sentence": "The TVOC sensor shows an extreme value.",
+    "state": {
+      "TVOC": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_0p0_5",
+    "sentence": "Should I be concerned about VOC levels?",
+    "state": {
+      "TVOC": 0.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_50000p0_1",
+    "sentence": "How does the TVOC level look?",
+    "state": {
+      "TVOC": 50000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_50000p0_2",
+    "sentence": "Is there a VOC problem in the room?",
+    "state": {
+      "TVOC": 50000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_50000p0_3",
+    "sentence": "Please protect air quality from VOCs.",
+    "state": {
+      "TVOC": 50000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_50000p0_4",
+    "sentence": "The TVOC sensor shows an extreme value.",
+    "state": {
+      "TVOC": 50000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_50000p0_5",
+    "sentence": "Should I be concerned about VOC levels?",
+    "state": {
+      "TVOC": 50000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_999p0_1",
+    "sentence": "How does the TVOC level look?",
+    "state": {
+      "TVOC": 999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_999p0_2",
+    "sentence": "Is there a VOC problem in the room?",
+    "state": {
+      "TVOC": 999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_999p0_3",
+    "sentence": "Please protect air quality from VOCs.",
+    "state": {
+      "TVOC": 999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_999p0_4",
+    "sentence": "The TVOC sensor shows an extreme value.",
+    "state": {
+      "TVOC": 999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_TVOC_999p0_5",
+    "sentence": "Should I be concerned about VOC levels?",
+    "state": {
+      "TVOC": 999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_m10p0_1",
+    "sentence": "Assess the lighting environment and adjust.",
+    "state": {
+      "lux": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_m10p0_2",
+    "sentence": "The light feels a bit dim — can you judge it?",
+    "state": {
+      "lux": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_m10p0_3",
+    "sentence": "What do you think of the current lighting?",
+    "state": {
+      "lux": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_m10p0_4",
+    "sentence": "Please optimize the lighting conditions.",
+    "state": {
+      "lux": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_m10p0_5",
+    "sentence": "The illuminance sensor shows a strange value.",
+    "state": {
+      "lux": -10.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_m500p0_1",
+    "sentence": "Assess the lighting environment and adjust.",
+    "state": {
+      "lux": -500.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_m500p0_2",
+    "sentence": "The light feels a bit dim — can you judge it?",
+    "state": {
+      "lux": -500.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_m500p0_3",
+    "sentence": "What do you think of the current lighting?",
+    "state": {
+      "lux": -500.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_m500p0_4",
+    "sentence": "Please optimize the lighting conditions.",
+    "state": {
+      "lux": -500.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_m500p0_5",
+    "sentence": "The illuminance sensor shows a strange value.",
+    "state": {
+      "lux": -500.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_999999p0_1",
+    "sentence": "Assess the lighting environment and adjust.",
+    "state": {
+      "lux": 999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_999999p0_2",
+    "sentence": "The light feels a bit dim — can you judge it?",
+    "state": {
+      "lux": 999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_999999p0_3",
+    "sentence": "What do you think of the current lighting?",
+    "state": {
+      "lux": 999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_999999p0_4",
+    "sentence": "Please optimize the lighting conditions.",
+    "state": {
+      "lux": 999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_999999p0_5",
+    "sentence": "The illuminance sensor shows a strange value.",
+    "state": {
+      "lux": 999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_9999999p0_1",
+    "sentence": "Assess the lighting environment and adjust.",
+    "state": {
+      "lux": 9999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_9999999p0_2",
+    "sentence": "The light feels a bit dim — can you judge it?",
+    "state": {
+      "lux": 9999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_9999999p0_3",
+    "sentence": "What do you think of the current lighting?",
+    "state": {
+      "lux": 9999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_9999999p0_4",
+    "sentence": "Please optimize the lighting conditions.",
+    "state": {
+      "lux": 9999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_9999999p0_5",
+    "sentence": "The illuminance sensor shows a strange value.",
+    "state": {
+      "lux": 9999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_99999999p0_1",
+    "sentence": "Assess the lighting environment and adjust.",
+    "state": {
+      "lux": 99999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_99999999p0_2",
+    "sentence": "The light feels a bit dim — can you judge it?",
+    "state": {
+      "lux": 99999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_99999999p0_3",
+    "sentence": "What do you think of the current lighting?",
+    "state": {
+      "lux": 99999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_99999999p0_4",
+    "sentence": "Please optimize the lighting conditions.",
+    "state": {
+      "lux": 99999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_lux_99999999p0_5",
+    "sentence": "The illuminance sensor shows a strange value.",
+    "state": {
+      "lux": 99999999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_m5p0_1",
+    "sentence": "What do you think of the acoustic environment?",
+    "state": {
+      "noise_db": -5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_m5p0_2",
+    "sentence": "Are the devices making too much noise?",
+    "state": {
+      "noise_db": -5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_m5p0_3",
+    "sentence": "Assess the current noise level.",
+    "state": {
+      "noise_db": -5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_m5p0_4",
+    "sentence": "The noise sensor reading seems off.",
+    "state": {
+      "noise_db": -5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_m5p0_5",
+    "sentence": "Please evaluate sound comfort.",
+    "state": {
+      "noise_db": -5.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_m20p0_1",
+    "sentence": "What do you think of the acoustic environment?",
+    "state": {
+      "noise_db": -20.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_m20p0_2",
+    "sentence": "Are the devices making too much noise?",
+    "state": {
+      "noise_db": -20.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_m20p0_3",
+    "sentence": "Assess the current noise level.",
+    "state": {
+      "noise_db": -20.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_m20p0_4",
+    "sentence": "The noise sensor reading seems off.",
+    "state": {
+      "noise_db": -20.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_m20p0_5",
+    "sentence": "Please evaluate sound comfort.",
+    "state": {
+      "noise_db": -20.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_200p0_1",
+    "sentence": "What do you think of the acoustic environment?",
+    "state": {
+      "noise_db": 200.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_200p0_2",
+    "sentence": "Are the devices making too much noise?",
+    "state": {
+      "noise_db": 200.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_200p0_3",
+    "sentence": "Assess the current noise level.",
+    "state": {
+      "noise_db": 200.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_200p0_4",
+    "sentence": "The noise sensor reading seems off.",
+    "state": {
+      "noise_db": 200.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_200p0_5",
+    "sentence": "Please evaluate sound comfort.",
+    "state": {
+      "noise_db": 200.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_999p0_1",
+    "sentence": "What do you think of the acoustic environment?",
+    "state": {
+      "noise_db": 999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_999p0_2",
+    "sentence": "Are the devices making too much noise?",
+    "state": {
+      "noise_db": 999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_999p0_3",
+    "sentence": "Assess the current noise level.",
+    "state": {
+      "noise_db": 999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_999p0_4",
+    "sentence": "The noise sensor reading seems off.",
+    "state": {
+      "noise_db": 999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_999p0_5",
+    "sentence": "Please evaluate sound comfort.",
+    "state": {
+      "noise_db": 999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_9999p0_1",
+    "sentence": "What do you think of the acoustic environment?",
+    "state": {
+      "noise_db": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_9999p0_2",
+    "sentence": "Are the devices making too much noise?",
+    "state": {
+      "noise_db": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_9999p0_3",
+    "sentence": "Assess the current noise level.",
+    "state": {
+      "noise_db": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_9999p0_4",
+    "sentence": "The noise sensor reading seems off.",
+    "state": {
+      "noise_db": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_noise_9999p0_5",
+    "sentence": "Please evaluate sound comfort.",
+    "state": {
+      "noise_db": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_m1p0_1",
+    "sentence": "Check the fan power consumption.",
+    "state": {
+      "fan_power": -1.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_m1p0_2",
+    "sentence": "Is the fan operating efficiently?",
+    "state": {
+      "fan_power": -1.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_m1p0_3",
+    "sentence": "Assess all device power consumption.",
+    "state": {
+      "fan_power": -1.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_m1p0_4",
+    "sentence": "Please optimize energy use.",
+    "state": {
+      "fan_power": -1.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_9999p0_1",
+    "sentence": "Check the fan power consumption.",
+    "state": {
+      "fan_power": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_9999p0_2",
+    "sentence": "Is the fan operating efficiently?",
+    "state": {
+      "fan_power": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_9999p0_3",
+    "sentence": "Assess all device power consumption.",
+    "state": {
+      "fan_power": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_9999p0_4",
+    "sentence": "Please optimize energy use.",
+    "state": {
+      "fan_power": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_m50p0_1",
+    "sentence": "Check the fan power consumption.",
+    "state": {
+      "fan_power": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_m50p0_2",
+    "sentence": "Is the fan operating efficiently?",
+    "state": {
+      "fan_power": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_m50p0_3",
+    "sentence": "Assess all device power consumption.",
+    "state": {
+      "fan_power": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_m50p0_4",
+    "sentence": "Please optimize energy use.",
+    "state": {
+      "fan_power": -50.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_10000p0_1",
+    "sentence": "Check the fan power consumption.",
+    "state": {
+      "fan_power": 10000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_10000p0_2",
+    "sentence": "Is the fan operating efficiently?",
+    "state": {
+      "fan_power": 10000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_10000p0_3",
+    "sentence": "Assess all device power consumption.",
+    "state": {
+      "fan_power": 10000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_fan_power_10000p0_4",
+    "sentence": "Please optimize energy use.",
+    "state": {
+      "fan_power": 10000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_m1p0_1",
+    "sentence": "Assess AC energy efficiency.",
+    "state": {
+      "ac_power": -1.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_m1p0_2",
+    "sentence": "Is the AC using too much power?",
+    "state": {
+      "ac_power": -1.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_m1p0_3",
+    "sentence": "Please check device energy usage.",
+    "state": {
+      "ac_power": -1.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_m1p0_4",
+    "sentence": "Is the AC running normally?",
+    "state": {
+      "ac_power": -1.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_9999p0_1",
+    "sentence": "Assess AC energy efficiency.",
+    "state": {
+      "ac_power": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_9999p0_2",
+    "sentence": "Is the AC using too much power?",
+    "state": {
+      "ac_power": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_9999p0_3",
+    "sentence": "Please check device energy usage.",
+    "state": {
+      "ac_power": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_9999p0_4",
+    "sentence": "Is the AC running normally?",
+    "state": {
+      "ac_power": 9999.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_0p001_1",
+    "sentence": "Assess AC energy efficiency.",
+    "state": {
+      "ac_power": 0.001
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_0p001_2",
+    "sentence": "Is the AC using too much power?",
+    "state": {
+      "ac_power": 0.001
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_0p001_3",
+    "sentence": "Please check device energy usage.",
+    "state": {
+      "ac_power": 0.001
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_0p001_4",
+    "sentence": "Is the AC running normally?",
+    "state": {
+      "ac_power": 0.001
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_50000p0_1",
+    "sentence": "Assess AC energy efficiency.",
+    "state": {
+      "ac_power": 50000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_50000p0_2",
+    "sentence": "Is the AC using too much power?",
+    "state": {
+      "ac_power": 50000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_50000p0_3",
+    "sentence": "Please check device energy usage.",
+    "state": {
+      "ac_power": 50000.0
+    }
+  },
+  {
+    "category": "fault_tolerance",
+    "name": "ft_ac_power_50000p0_4",
+    "sentence": "Is the AC running normally?",
+    "state": {
+      "ac_power": 50000.0
+    }
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_off_stutter",
+    "sentence": "Um... uh... Turn off... I mean... Turn off the fan.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_on_50_stutter",
+    "sentence": "Uh, set the... set the fan to... fifty percent?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_max_stutter",
+    "sentence": "S-so, I need the fan... full blast, yeah, full speed.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_on_stutter",
+    "sentence": "Wait, um, can you... the fan — can it swing? Turn that on.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_off_stutter",
+    "sentence": "Er... stop the... the fan from going side to side, please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_26_cool_stutter",
+    "sentence": "Ah, so... twenty-six... yeah, cool mode — set the AC to that.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_off_stutter",
+    "sentence": "I mean... just... turn off the AC, that's it.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_dry_stutter",
+    "sentence": "Hmm... the AC — can it do dry... mode? Switch to that please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_23_stutter",
+    "sentence": "Li-listen, twenty-three degrees — set the AC to twenty-three.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_up_stutter",
+    "sentence": "Err... the AC temp, it's too cold — raise it a... a bit?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_off_stutter",
+    "sentence": "Um... lights, just... turn them off.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_bright_stutter",
+    "sentence": "So... uh... the lights are dim — can you... turn them up?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_dim_stutter",
+    "sentence": "I mean... I just... it's too bright — dim it down, please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_warm_stutter",
+    "sentence": "Uh... warm light... the yellowish kind — switch to that.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_cool_stutter",
+    "sentence": "Hmm... cool white light... you know, the blue-ish — that, please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_on_stutter",
+    "sentence": "Ah... the purifier... can you turn it on? The air feels off.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_off_stutter",
+    "sentence": "Um... stop the... the purifier, I think we're okay now.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_high_stutter",
+    "sentence": "Uh... crank up the purifier... full power, like, high level.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_low_stutter",
+    "sentence": "Er... reduce the purifier... to low, it's getting noisy.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_all_off_stutter",
+    "sentence": "I... I just want everything off. All of it. Off.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_off_repeat",
+    "sentence": "Turn off the fan. Seriously, turn it off.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_on_50_repeat",
+    "sentence": "Set the fan to 50%. Fifty percent — that's what I want.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_max_repeat",
+    "sentence": "Max fan speed. I mean maximum — don't hold back.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_on_repeat",
+    "sentence": "Enable the fan swing. Yes, swing mode — please enable it.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_off_repeat",
+    "sentence": "Stop the fan oscillating. No swinging — stop it.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_26_cool_repeat",
+    "sentence": "Set AC to 26 degrees, cooling mode. 26, cool — do it.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_off_repeat",
+    "sentence": "Turn the AC off. Off — completely off, please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_dry_repeat",
+    "sentence": "Dry mode on the AC. Switch to dry — dry mode only.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_23_repeat",
+    "sentence": "23 degrees for the AC. Set it to 23, twenty-three.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_up_repeat",
+    "sentence": "Raise the AC setpoint. Turn it up — higher, please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_off_repeat",
+    "sentence": "Lights off. Turn the lights off — all of them.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_bright_repeat",
+    "sentence": "Brighter lights. I need the lights brighter — increase brightness.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_dim_repeat",
+    "sentence": "Dim the lights. Make them dimmer — dimmer, I said.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_warm_repeat",
+    "sentence": "Warm light setting. Switch to warm — warmer color temperature.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_cool_repeat",
+    "sentence": "Cool light, please. Crisp white — I want the cool setting.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_on_repeat",
+    "sentence": "Turn on the purifier. On — the air purifier, switch it on.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_off_repeat",
+    "sentence": "Purifier off. Turn it off — the air purifier, off now.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_high_repeat",
+    "sentence": "Purifier on high. High level — maximum purification please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_low_repeat",
+    "sentence": "Low setting for the purifier. Dial it back to low, lower level.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_all_off_repeat",
+    "sentence": "Turn everything off. All devices — off, please, all of them.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_off_hedge",
+    "sentence": "Maybe, if it's not too much trouble, could you perhaps turn off the fan?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_on_50_hedge",
+    "sentence": "I was wondering if it would be at all possible to set the fan to around 50%?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_max_hedge",
+    "sentence": "If you don't mind, could you potentially run the fan at its highest setting?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_on_hedge",
+    "sentence": "It would be nice, if convenient, to have the fan swing mode activated.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_off_hedge",
+    "sentence": "I suppose, if not too complex, could you disable the fan's oscillation?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_26_cool_hedge",
+    "sentence": "Would it be okay if the AC were set to 26°C on cooling, if that's feasible?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_off_hedge",
+    "sentence": "I hate to bother you, but would it be alright to just turn the AC off?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_dry_hedge",
+    "sentence": "If it's possible, I was thinking the AC might work better in dry mode?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_23_hedge",
+    "sentence": "I'm not sure if it's too much, but could you try setting the AC to 23°C?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_up_hedge",
+    "sentence": "Whenever you get a chance, could you perhaps raise the AC temperature a little?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_off_hedge",
+    "sentence": "No rush at all, but could you maybe turn off the lights when you can?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_bright_hedge",
+    "sentence": "It's not urgent, but if possible, could you increase the brightness a touch?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_dim_hedge",
+    "sentence": "I don't want to be a bother, but could you dim the lights somewhat?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_warm_hedge",
+    "sentence": "Just wondering — is it possible to shift the lights to a warmer tone?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_cool_hedge",
+    "sentence": "If you're able to, could you adjust the light to something cooler and whiter?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_on_hedge",
+    "sentence": "Sorry to ask, but do you think you could switch on the air purifier?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_off_hedge",
+    "sentence": "I know it's been running, but could you possibly turn the purifier off now?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_high_hedge",
+    "sentence": "If it's not too noisy, could you maybe set the purifier to a higher level?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_low_hedge",
+    "sentence": "It's a minor thing, but would you mind reducing the purifier level a bit?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_all_off_hedge",
+    "sentence": "I don't want to cause issues, but is it okay to shut everything down for now?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_off_nonnative",
+    "sentence": "Please close the fan.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_on_50_nonnative",
+    "sentence": "Fan need open to half power.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_max_nonnative",
+    "sentence": "Open the fan to biggest speed please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_on_nonnative",
+    "sentence": "Make fan do the swinging please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_off_nonnative",
+    "sentence": "The fan swing, please to stop it.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_26_cool_nonnative",
+    "sentence": "AC please set 26 degree, cold type.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_off_nonnative",
+    "sentence": "Please the AC switch off.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_dry_nonnative",
+    "sentence": "AC change to dry weather mode.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_23_nonnative",
+    "sentence": "Please AC temperature become 23.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_up_nonnative",
+    "sentence": "AC too cold, please make higher temperature.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_off_nonnative",
+    "sentence": "Can you make lights no more?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_bright_nonnative",
+    "sentence": "Please make light more bright.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_dim_nonnative",
+    "sentence": "Light too strong, please make less.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_warm_nonnative",
+    "sentence": "Change light to yellow type.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_cool_nonnative",
+    "sentence": "I want white blue light please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_on_nonnative",
+    "sentence": "Open the air clean machine.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_off_nonnative",
+    "sentence": "Close the air cleaner please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_high_nonnative",
+    "sentence": "Make the purifier work more stronger.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_low_nonnative",
+    "sentence": "Purifier please do small level.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_all_off_nonnative",
+    "sentence": "Please all machine stop work.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_off_slang",
+    "sentence": "Kill the fan, bro.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_on_50_slang",
+    "sentence": "Yo, crank the fan to like half?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_max_slang",
+    "sentence": "Blast the fan — full send!",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_on_slang",
+    "sentence": "Get the fan going side to side, fam.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_off_slang",
+    "sentence": "Stop the fan from vibing left-right, yeah?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_26_cool_slang",
+    "sentence": "Hit the AC at 26, cool mode, ya feel me?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_off_slang",
+    "sentence": "Nuke the AC — I'm done with it.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_dry_slang",
+    "sentence": "Flip the AC to dry, the place is lowkey swampy.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_23_slang",
+    "sentence": "Throw it on 23 degrees, chilly mode.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_up_slang",
+    "sentence": "The AC's making it hella cold — bump it up.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_off_slang",
+    "sentence": "Lights out, homie.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_bright_slang",
+    "sentence": "Turn the lights up, can't see squat in here.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_dim_slang",
+    "sentence": "Ease up on the lights — way too bright rn.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_warm_slang",
+    "sentence": "Swap the lights to something warm and viby.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_cool_slang",
+    "sentence": "Make it all crispy white light — productivity mode.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_on_slang",
+    "sentence": "Fire up the purifier, this air is sus.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_off_slang",
+    "sentence": "The purifier's done its thing — cut it off.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_high_slang",
+    "sentence": "Purifier on max — the air is straight-up nasty.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_low_slang",
+    "sentence": "Dial the purifier back, it's loud AF.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_all_off_slang",
+    "sentence": "Peace out — shut everything down.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_off_formal",
+    "sentence": "Kindly deactivate the fan unit at your earliest convenience.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_on_50_formal",
+    "sentence": "I request that the fan be operated at fifty percent of its maximum capacity.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_max_formal",
+    "sentence": "Please engage the fan to its full operational capacity immediately.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_on_formal",
+    "sentence": "Could you activate the oscillation feature of the ventilation fan?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_off_formal",
+    "sentence": "I would like the oscillation function of the fan to be disabled forthwith.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_26_cool_formal",
+    "sentence": "I respectfully request that the air conditioning unit be configured to 26°C in cooling mode.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_off_formal",
+    "sentence": "Please proceed with the deactivation of the air conditioning system.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_dry_formal",
+    "sentence": "I require the air conditioning unit to be switched to dehumidification mode.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_23_formal",
+    "sentence": "Kindly configure the air conditioning temperature parameter to 23 degrees Celsius.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_up_formal",
+    "sentence": "I would appreciate it if the air conditioning setpoint were incrementally increased.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_off_formal",
+    "sentence": "Please extinguish all illumination sources in the room.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_bright_formal",
+    "sentence": "I formally request an increase in the luminous output of the lighting fixtures.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_dim_formal",
+    "sentence": "A reduction in lighting intensity to a more subdued level would be appreciated.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_warm_formal",
+    "sentence": "Could you configure the lighting to a warmer color temperature setting, please?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_cool_formal",
+    "sentence": "I request that the color temperature of the lights be adjusted to a cooler specification.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_on_formal",
+    "sentence": "Please initiate the operation of the air purification system at your discretion.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_off_formal",
+    "sentence": "I request the cessation of air purifier operations effective immediately.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_high_formal",
+    "sentence": "Please maximize the operational intensity of the air purification unit.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_low_formal",
+    "sentence": "I would like the air purifier to be operated at a reduced intensity level.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_all_off_formal",
+    "sentence": "Please ensure that all environmental control systems are fully powered down.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_off_indirect",
+    "sentence": "There's a bit of a draft — I'd rather have still air right now.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_on_50_indirect",
+    "sentence": "The air feels stagnant. Could you get some moderate circulation going?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_max_indirect",
+    "sentence": "It's really hot and close in here — I need the maximum airflow possible.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_on_indirect",
+    "sentence": "The air only hits one side of the room. Can it be more evenly distributed?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_off_indirect",
+    "sentence": "I keep feeling a constant blast from the same direction. Can that stop?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_26_cool_indirect",
+    "sentence": "I'm a bit warm — something around 26 degrees of cool air would be ideal.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_off_indirect",
+    "sentence": "The mechanical cooling really isn't necessary anymore — it's comfortable now.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_dry_indirect",
+    "sentence": "The air feels wet and sticky — I want it drier without changing the temperature much.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_23_indirect",
+    "sentence": "It's really warm in here — bring the room down to 23 degrees please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_up_indirect",
+    "sentence": "The cooling is a bit intense — it doesn't need to be this cold in here.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_off_indirect",
+    "sentence": "I'd like to rest in the dark — can the room go unlit?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_bright_indirect",
+    "sentence": "I'm struggling to see clearly at this light level.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_dim_indirect",
+    "sentence": "The glare is really hurting my eyes — can you reduce it?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_warm_indirect",
+    "sentence": "I'd prefer a cozier, amber-toned atmosphere in here.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_cool_indirect",
+    "sentence": "The warm lighting feels too sleepy — I need something crisper and more alert.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_on_indirect",
+    "sentence": "The air quality doesn't feel right in here — can you address that?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_off_indirect",
+    "sentence": "The air seems clean enough now — no need to keep filtering.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_high_indirect",
+    "sentence": "I'm concerned about particles in the air — can we tackle this aggressively?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_low_indirect",
+    "sentence": "The purification level seems overly aggressive for the current air quality.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_all_off_indirect",
+    "sentence": "I'm leaving and the room should go into idle with minimal activity.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_off_disorder",
+    "sentence": "The fan, please off it.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_on_50_disorder",
+    "sentence": "50%, the fan, set it to.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_max_disorder",
+    "sentence": "Full speed, fan, maximum — set please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_on_disorder",
+    "sentence": "Swing mode, fan, activate it, horizontal.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_off_disorder",
+    "sentence": "Fan swing, stop, the oscillation off.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_26_cool_disorder",
+    "sentence": "26 cool mode, AC, set to.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_off_disorder",
+    "sentence": "AC off please, shut it, yes.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_dry_disorder",
+    "sentence": "Dry mode, AC, switch it.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_23_disorder",
+    "sentence": "23 degrees, AC, to set it.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_up_disorder",
+    "sentence": "Higher temp, AC, raise it please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_off_disorder",
+    "sentence": "Lights, please, off all of them.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_bright_disorder",
+    "sentence": "Brighter, lights, turn up please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_dim_disorder",
+    "sentence": "Less bright, lights, dim them down.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_warm_disorder",
+    "sentence": "Warm, light color, change to it.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_cool_disorder",
+    "sentence": "Cool white, lights, adjust to please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_on_disorder",
+    "sentence": "Purifier, on, turn it please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_off_disorder",
+    "sentence": "Off, purifier, switch it now.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_high_disorder",
+    "sentence": "High, level, purifier, set it.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_low_disorder",
+    "sentence": "Low, purifier, intensity, reduce please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_all_off_disorder",
+    "sentence": "Everything, off, all devices please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_off_typos",
+    "sentence": "Trun off teh fan.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_on_50_typos",
+    "sentence": "Ste the fna to 50 percnet.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_max_typos",
+    "sentence": "Fan at maximun spped please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_on_typos",
+    "sentence": "Trun on the swign mode on the fan.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_off_typos",
+    "sentence": "Stopp the fan swingig.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_26_cool_typos",
+    "sentence": "Set AC to 26 degres, coolign mode.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_off_typos",
+    "sentence": "Pleasse tur off the AC.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_dry_typos",
+    "sentence": "Swith to dyr mode on the AC.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_23_typos",
+    "sentence": "AC tmperature to 23 degres.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_up_typos",
+    "sentence": "Raies the AC temerature a litle.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_off_typos",
+    "sentence": "Ligths off pleaz.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_bright_typos",
+    "sentence": "Turnn up the brigtness.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_dim_typos",
+    "sentence": "Dim teh lgiht a bit.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_warm_typos",
+    "sentence": "Wram light settign please.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_cool_typos",
+    "sentence": "Swith to colo whit light.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_on_typos",
+    "sentence": "Turon on the prufier.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_off_typos",
+    "sentence": "Turon off the purifer now.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_high_typos",
+    "sentence": "Set purfier to hig levle.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_low_typos",
+    "sentence": "Reduse purfier to lwo.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_all_off_typos",
+    "sentence": "Tur off everthing pleasee.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_off_filler",
+    "sentence": "So like, you know, can you just, basically, turn the fan off?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_on_50_filler",
+    "sentence": "Um, basically, set the fan to, like, 50% or whatever?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_max_filler",
+    "sentence": "Kinda need the fan on, like, full blast, you know?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_on_filler",
+    "sentence": "So yeah, can you, like, turn on the fan swing thing?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_fan_swing_off_filler",
+    "sentence": "Honestly, the fan swing is kind of annoying — just stop it, yeah?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_26_cool_filler",
+    "sentence": "So basically, set the AC to 26, cool mode, right?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_off_filler",
+    "sentence": "I mean, like, just turn off the AC, you know?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_dry_filler",
+    "sentence": "So I guess, like, switch to dry mode on the AC, yeah?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_23_filler",
+    "sentence": "Like, 23 degrees for the AC — can you do that?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_ac_up_filler",
+    "sentence": "Honestly the AC is like way too cold, can you sort of raise it?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_off_filler",
+    "sentence": "Just, like, turn off the lights, you know what I mean?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_bright_filler",
+    "sentence": "So um, can you, like, make the lights brighter or something?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_dim_filler",
+    "sentence": "Basically, the lights are just kinda too much — dim them, yeah?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_warm_filler",
+    "sentence": "Like, I want the lights warmer, you know, more cozy-like?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_light_cool_filler",
+    "sentence": "So I'm thinking, like, cool white light — can you switch to that?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_on_filler",
+    "sentence": "Um, basically, the air seems a bit off — can you, like, turn on the purifier?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_off_filler",
+    "sentence": "Like, honestly, the purifier is fine to turn off now, right?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_high_filler",
+    "sentence": "So the air quality is like, really bad — max out the purifier or whatever?",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_purifier_low_filler",
+    "sentence": "Can you like, tone down the purifier a bit? It's kinda loud.",
+    "state": {}
+  },
+  {
+    "category": "semantic_noise",
+    "name": "sn_all_off_filler",
+    "sentence": "Basically, just, like, shut everything off, yeah?",
+    "state": {}
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_01",
+    "sentence": "Turn on the fan please.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_02",
+    "sentence": "It's stuffy — get some airflow going.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_03",
+    "sentence": "Set the fan to maximum speed.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_04",
+    "sentence": "Enable horizontal oscillation on the fan.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_05",
+    "sentence": "I need a gentle breeze from the fan.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_06",
+    "sentence": "The fan is the only thing that'll help right now.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_07",
+    "sentence": "Please use the fan to cool me down.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_08",
+    "sentence": "Set the fan to low speed, I'm going to sleep.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_09",
+    "sentence": "I'd like the fan on, and the AC too.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_10",
+    "sentence": "The air isn't circulating — do something.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_11",
+    "sentence": "Can airflow help with the stuffiness in here?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_12",
+    "sentence": "I rely on moving air for comfort — can you provide that?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_13",
+    "sentence": "Activate swing mode and get the air moving.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_14",
+    "sentence": "Set airflow intensity to 60%.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_15",
+    "sentence": "It's warm and I need some air movement.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_16",
+    "sentence": "The stuffiness usually goes away with some airflow.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_17",
+    "sentence": "It's very warm — can you get the air moving?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_18",
+    "sentence": "Can you start with something gentle, like minimum airflow?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_19",
+    "sentence": "A light breeze at 30% would be enough.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_20",
+    "sentence": "I want airflow plus the AC to work together.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_21",
+    "sentence": "Is there any way to get circulation going in here?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_22",
+    "sentence": "It feels like a sealed box — I need airflow.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_23",
+    "sentence": "I'm overheating — please get air moving immediately.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_24",
+    "sentence": "Low-speed airflow for background comfort.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_25",
+    "sentence": "Can you bring the temperature down using airflow?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_26",
+    "sentence": "The air feels heavy — some circulation would help.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_27",
+    "sentence": "Please get the room ventilated.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_28",
+    "sentence": "Warm and stale — I need a breeze, please.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_29",
+    "sentence": "A steady 40% airflow would be perfect.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_30",
+    "sentence": "It's too muggy in here — increase circulation.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_31",
+    "sentence": "I've been sweating — can you cool me with airflow?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_32",
+    "sentence": "Even a weak breeze would help right now.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_33",
+    "sentence": "I need airflow from the ceiling direction.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_34",
+    "sentence": "Get the room air moving, any method works.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_35",
+    "sentence": "The heat is unbearable — do what you can with airflow.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_36",
+    "sentence": "Just a small amount of air movement would be great.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_37",
+    "sentence": "Start at minimum and increase if it's still warm.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_38",
+    "sentence": "I want the swing on and a moderate breeze.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_39",
+    "sentence": "Make the air feel fresher — increase circulation.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_40",
+    "sentence": "The thermal comfort is off — use whatever you can for airflow.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_41",
+    "sentence": "I always use airflow for cooling — please activate it.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_42",
+    "sentence": "Even slow oscillation would help spread the air.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_43",
+    "sentence": "Can the air be pushed around the room a bit more?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_44",
+    "sentence": "Set up a gentle cross-ventilation effect if possible.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_45",
+    "sentence": "I'd love 50% airflow with horizontal sweep.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_46",
+    "sentence": "Increase airspeed to address the warmth.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_47",
+    "sentence": "Is 60% airflow feasible? That's what I need.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_48",
+    "sentence": "I feel clammy — strong airflow please.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_49",
+    "sentence": "The air is totally still — change that.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_50",
+    "sentence": "Can you recommend an alternative if direct airflow isn't possible?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_51",
+    "sentence": "I depend on airflow to stay comfortable — find a way.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_52",
+    "sentence": "Blow some air on me, please.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_53",
+    "sentence": "The airflow needs to reach my workspace.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_54",
+    "sentence": "What can you do if airflow devices aren't working?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_55",
+    "sentence": "Try to improve air circulation by any means.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_56",
+    "sentence": "I'm sitting near a window — any chance of a breeze?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_57",
+    "sentence": "The room needs ventilation urgently.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_58",
+    "sentence": "Can you work around the broken fan somehow?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_59",
+    "sentence": "Is the AC fan mode an option here?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_60",
+    "sentence": "If the fan isn't working, use the AC in fan mode.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_61",
+    "sentence": "Try to get some air moving even indirectly.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_62",
+    "sentence": "I need the stuffiness fixed — whatever method.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_63",
+    "sentence": "Can the purifier at least improve the airflow feel?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_64",
+    "sentence": "The room is stifling — suggest an alternative cooling.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_65",
+    "sentence": "Use whatever device can create movement in the air.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_66",
+    "sentence": "With no direct airflow option, what's your fallback?",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_unavail_67",
+    "sentence": "Please attempt to improve thermal comfort without fan.",
+    "state": {
+      "fan_available": false,
+      "T_air": 28.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_01",
+    "sentence": "Set the AC to 26°C cooling mode.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_02",
+    "sentence": "It's too warm — please cool the room down.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_03",
+    "sentence": "Turn on the air conditioner.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_04",
+    "sentence": "Switch the AC to dry mode.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_05",
+    "sentence": "Set AC temperature to 23°C.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_06",
+    "sentence": "I'm sweating — get the AC running.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_07",
+    "sentence": "Cool the room to a comfortable temperature.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_08",
+    "sentence": "I need the temperature reduced significantly.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_09",
+    "sentence": "Activate cooling and set it to 25°C.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_10",
+    "sentence": "The AC should be set to fan+cool mode.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_11",
+    "sentence": "Please turn on the cooling system.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_12",
+    "sentence": "It's 30°C in here — start cooling immediately.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_13",
+    "sentence": "Set the aircon to a comfortable level for working.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_14",
+    "sentence": "I need the air conditioned — it's too hot.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_15",
+    "sentence": "Use dry mode to reduce humidity.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_16",
+    "sentence": "Cool down the room for a meeting.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_17",
+    "sentence": "The temperature is uncomfortable — fix it with cooling.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_18",
+    "sentence": "Set cooling setpoint to 24°C.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_19",
+    "sentence": "Start the cooling so the room gets comfortable.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_20",
+    "sentence": "AC mode: cool, target: 22°C.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_21",
+    "sentence": "It's sweltering — activate the cooling unit now.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_22",
+    "sentence": "Lower the room temperature by at least 5 degrees.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_23",
+    "sentence": "I need dehumidification through the AC.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_24",
+    "sentence": "Please activate the climate control system.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_25",
+    "sentence": "Cooling is required — the room exceeds 30°C.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_26",
+    "sentence": "I can't work in this heat — turn on cooling.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_27",
+    "sentence": "Start the HVAC cooling cycle.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_28",
+    "sentence": "Bring the temperature down to 24 degrees.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_29",
+    "sentence": "Cool air please — full cool mode.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_30",
+    "sentence": "Set the climate to 26°C for general comfort.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_31",
+    "sentence": "It's unbearable — what cooling options do I have?",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_32",
+    "sentence": "Is the AC the only way to cool this room?",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_33",
+    "sentence": "Run the cooling system continuously.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_34",
+    "sentence": "I need refrigerative cooling, not just a fan.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_35",
+    "sentence": "Please drop the temperature fast.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_36",
+    "sentence": "I want the room at 25°C — use cooling.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_37",
+    "sentence": "Summer heat is overwhelming — cool mode please.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_38",
+    "sentence": "The room temperature sensor reads 31°C — respond.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_39",
+    "sentence": "Do something about the heat — it's an emergency.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_40",
+    "sentence": "I'm heat-stressed — activate cooling.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_41",
+    "sentence": "Please chill the room down before anyone arrives.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_42",
+    "sentence": "We're expecting guests — cool the room first.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_43",
+    "sentence": "The baby is too warm — please cool the room.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_44",
+    "sentence": "Set a comfortable 26°C target and maintain it.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_45",
+    "sentence": "The workspace is too hot for concentration.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_46",
+    "sentence": "I need to work here — cool it to 24°C.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_47",
+    "sentence": "Cool air is essential right now.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_48",
+    "sentence": "The ambient temperature is too high — control it.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_49",
+    "sentence": "Switch to refrigerative cooling please.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_50",
+    "sentence": "If AC is unavailable, what can you do about the heat?",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_51",
+    "sentence": "Are there alternatives to AC cooling here?",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_52",
+    "sentence": "The cooling system failed — how can you compensate?",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_53",
+    "sentence": "Use any available method to reduce room temperature.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_54",
+    "sentence": "Can the fan simulate cooling even without the AC?",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_55",
+    "sentence": "I really need the room temperature down by 5°C.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_56",
+    "sentence": "Without AC, can you still make this comfortable?",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_57",
+    "sentence": "Tell me what options exist for cooling without AC.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_58",
+    "sentence": "Use the next best cooling alternative.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_59",
+    "sentence": "My skin temperature is rising — cool the environment.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_60",
+    "sentence": "Find a way to lower the ambient temperature.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_61",
+    "sentence": "Any strategy for staying cool when AC is down?",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_62",
+    "sentence": "Reduce heat load using whatever you have available.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_63",
+    "sentence": "Can you optimize the room for cooling without the main unit?",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_64",
+    "sentence": "The thermal discomfort is high — please address it.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_65",
+    "sentence": "I'm relying on you to keep this room cool.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_66",
+    "sentence": "Cooling is my top priority — please handle it.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_67",
+    "sentence": "Propose a fallback cooling strategy.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_ac_unavail_68",
+    "sentence": "Suggest the most efficient remaining option for cooling.",
+    "state": {
+      "ac_available": false,
+      "T_air": 29.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_01",
+    "sentence": "It's really hot and stuffy — I need cooling and airflow.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_02",
+    "sentence": "Cool the room down and get the air moving.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_03",
+    "sentence": "It's sweltering — I need both temperature and circulation control.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_04",
+    "sentence": "The room is 32°C and stagnant — do something.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_05",
+    "sentence": "I'm dying of heat — fix the temperature and ventilation.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_06",
+    "sentence": "Use whatever cooling options are available.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_07",
+    "sentence": "It's uncomfortably warm with no airflow — help.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_08",
+    "sentence": "I need the room cooled and the air circulated.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_09",
+    "sentence": "Set up a comfortable temperature with airflow.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_10",
+    "sentence": "The heat is oppressive — use all available tools.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_11",
+    "sentence": "Both temperature and air stagnation need fixing.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_12",
+    "sentence": "What can you do when it's hot and stuffy?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_13",
+    "sentence": "No airflow, too hot — what options are left?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_14",
+    "sentence": "I need thermal comfort urgently — propose a solution.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_15",
+    "sentence": "The room is like an oven — help me cool down.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_16",
+    "sentence": "Primary cooling and airflow devices are both unavailable — suggest alternatives.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_17",
+    "sentence": "Can the purifier help with air circulation?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_18",
+    "sentence": "Is there any way to reduce the temperature without AC or fan?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_19",
+    "sentence": "I need at least some air movement and cooling.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_20",
+    "sentence": "My skin temperature is rising fast — intervene.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_21",
+    "sentence": "The environment is thermally unsafe — what can you do?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_22",
+    "sentence": "I need to work here but it's too hot and stuffy.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_23",
+    "sentence": "Without fan and AC, how do you recommend I cool down?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_24",
+    "sentence": "Any indirect cooling method would be appreciated.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_25",
+    "sentence": "Can you open windows or adjust settings to help?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_26",
+    "sentence": "The heat and stagnation are making me dizzy.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_27",
+    "sentence": "Both cooling and airflow paths are blocked — what now?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_28",
+    "sentence": "Please suggest what devices can compensate for no fan or AC.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_29",
+    "sentence": "Maximize any remaining environmental control options.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_30",
+    "sentence": "I need a creative solution for heat and stuffiness.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_31",
+    "sentence": "The room's thermal conditions are critical — fallback plan?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_32",
+    "sentence": "Cooling and air movement are both critical needs right now.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_33",
+    "sentence": "With no fan or AC, can you still manage the environment?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_34",
+    "sentence": "Find an alternative approach to regulate temperature.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_35",
+    "sentence": "This is uncomfortable — please do what you can.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_36",
+    "sentence": "My comfort requires both airflow and temperature control.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_37",
+    "sentence": "I'll accept any partial solution for cooling.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_38",
+    "sentence": "What alternative devices can act as a cooling substitute?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_39",
+    "sentence": "If direct cooling fails, what indirect methods exist?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_40",
+    "sentence": "I need the room habitable — work around the device failures.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_41",
+    "sentence": "Use the light or purifier settings to improve comfort if possible.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_42",
+    "sentence": "Even partial improvement to temperature or airflow would help.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_43",
+    "sentence": "Please minimize thermal discomfort given the constraints.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_44",
+    "sentence": "The environment is unsustainable — what's your best option?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_45",
+    "sentence": "I understand the devices are down — what can still be done?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_46",
+    "sentence": "Is there any way to vent or circulate air without the fan?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_47",
+    "sentence": "Can window adjustment or other means improve airflow?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_48",
+    "sentence": "Please analyze what's still working and optimize from there.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_49",
+    "sentence": "Evaluate all non-fan, non-AC options for thermal comfort.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_50",
+    "sentence": "Recommend the best achievable comfort state given failures.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_51",
+    "sentence": "I'm overheating — activate everything that still works.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_52",
+    "sentence": "My skin temperature is 37°C — this is a health concern.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_53",
+    "sentence": "Despite device failures, please do your best to help.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_54",
+    "sentence": "I trust your judgment on managing this with limited devices.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_55",
+    "sentence": "I can't leave the room — please make it survivable.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_56",
+    "sentence": "Consider all indirect methods for heat mitigation.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_57",
+    "sentence": "Give me an action plan for thermal comfort with no AC/fan.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_58",
+    "sentence": "My productivity is suffering from the heat — find a solution.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_59",
+    "sentence": "Even small improvements in temperature would help a lot.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_60",
+    "sentence": "Please try every remaining option systematically.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_61",
+    "sentence": "Report what can and cannot be done given current failures.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_62",
+    "sentence": "I want the most comfortable environment achievable right now.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_63",
+    "sentence": "Heat index is critical — use all fallback strategies.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_64",
+    "sentence": "Help me stay safe and comfortable despite the system failures.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_65",
+    "sentence": "Prioritize the most impactful remaining cooling option.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_66",
+    "sentence": "What do you recommend in this thermal emergency?",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "device_failure",
+    "name": "df_fan_ac_unavail_67",
+    "sentence": "Apply emergency heat mitigation protocol.",
+    "state": {
+      "fan_available": false,
+      "ac_available": false,
+      "T_air": 31.0
+    }
+  },
+  {
+    "category": "consistency",
+    "name": "con_hot_sunny",
+    "sentence": "I've been sitting here for a while and the room keeps getting warmer — it's starting to feel uncomfortable.",
+    "state": {
+      "T_air": 29.0,
+      "T_skin": 37.0,
+      "lux": 200.0,
+      "noise_db": 47.0,
+      "humidity": 60.0,
+      "CO2": 600.0,
+      "PM25": 10.0,
+      "TVOC": 100.0,
+      "OUTTEMP": 35.0,
+      "OUTHUMID": 70.0,
+      "weather_desc": "Sunny"
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_stuffy",
+    "sentence": "The air in here is stale and thick — I can't concentrate properly and my head feels foggy.",
+    "state": {
+      "T_air": 27.0,
+      "humidity": 68.0,
+      "CO2": 900.0,
+      "TVOC": 150.0,
+      "fan_on": false,
+      "ac_on": false
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_brighter",
+    "sentence": "The lighting is making everything look dim — I need much clearer visibility to review these documents.",
+    "state": {
+      "lux": 180.0,
+      "light_on": true,
+      "light_brightness_pct": 40
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_focus_light",
+    "sentence": "I need to concentrate for the next two hours — can you set up the lighting for productive desk work?",
+    "state": {
+      "lux": 250.0,
+      "light_on": true,
+      "light_brightness_pct": 50,
+      "light_color_temperature_k": 3500
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_air_quality",
+    "sentence": "Something smells off and I've been sneezing more than usual — can you take care of whatever's affecting the air?",
+    "state": {
+      "PM25": 45.0,
+      "TVOC": 200.0,
+      "CO2": 850.0,
+      "purifier_on": false
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_cold",
+    "sentence": "It's gotten quite chilly in here. The AC may have overcooled the room — can you warm things up a bit?",
+    "state": {
+      "T_air": 20.0,
+      "T_skin": 33.5,
+      "ac_on": true,
+      "ac_mode": "cool",
+      "ac_set_temperature": 22.0
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_overall_comfort",
+    "sentence": "I've been here since morning and everything feels slightly off — temperature, lighting, air quality. Can you do a full comfort optimization?",
+    "state": {
+      "T_air": 27.5,
+      "humidity": 62.0,
+      "CO2": 750.0,
+      "lux": 200.0,
+      "PM25": 30.0
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_noisy",
+    "sentence": "The devices are making a lot of background noise and it's distracting me from my work — can you quiet things down?",
+    "state": {
+      "noise_db": 62.0,
+      "fan_on": true,
+      "fan_pct": 70,
+      "purifier_on": true,
+      "purifier_level": 8
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_high_pm25",
+    "sentence": "I've been coughing more than usual lately — could the indoor air quality be contributing to this?",
+    "state": {
+      "PM25": 55.0,
+      "purifier_on": false,
+      "TVOC": 120.0
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_very_hot_humid",
+    "sentence": "It feels absolutely tropical in here — both hot and muggy at the same time. This combination is really draining.",
+    "state": {
+      "T_air": 31.0,
+      "humidity": 78.0,
+      "T_skin": 36.5,
+      "OUTTEMP": 34.0,
+      "OUTHUMID": 80.0
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_smell_chemical",
+    "sentence": "There's a faint chemical smell that's been lingering for a while — it's irritating my throat and eyes.",
+    "state": {
+      "TVOC": 350.0,
+      "CO2": 700.0,
+      "PM25": 20.0,
+      "purifier_on": false
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_sleep_mode",
+    "sentence": "I'm winding down for the night and need to sleep soon — can you gradually create a sleep-friendly environment?",
+    "state": {
+      "T_air": 26.0,
+      "lux": 400.0,
+      "light_brightness_pct": 80,
+      "noise_db": 45.0
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_co2_high",
+    "sentence": "I've been feeling drowsy and struggling to focus for the past hour — could CO₂ levels be causing this?",
+    "state": {
+      "CO2": 1100.0,
+      "T_air": 26.0,
+      "humidity": 55.0,
+      "fan_on": false,
+      "ac_on": false
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_cold_dry",
+    "sentence": "The room feels uncomfortably cold and dry — my throat is getting scratchy and I'm reaching for a blanket.",
+    "state": {
+      "T_air": 19.5,
+      "humidity": 28.0,
+      "T_skin": 33.0,
+      "ac_on": true,
+      "ac_mode": "cool"
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_all_devices",
+    "sentence": "Please check all the environmental parameters and activate whichever devices are needed to bring everything into a comfortable range.",
+    "state": {
+      "T_air": 28.0,
+      "humidity": 65.0,
+      "CO2": 850.0,
+      "PM25": 40.0,
+      "lux": 150.0,
+      "TVOC": 180.0
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_low_energy",
+    "sentence": "The electricity bill has been high lately — can you keep the room comfortable while minimizing energy use?",
+    "state": {
+      "T_air": 27.0,
+      "humidity": 58.0,
+      "lux": 400.0,
+      "fan_on": true,
+      "fan_pct": 60,
+      "ac_on": true,
+      "ac_set_temperature": 24.0
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_meeting_room",
+    "sentence": "We're about to start a group video call with about five people joining soon — can you optimize the environment for that?",
+    "state": {
+      "T_air": 26.0,
+      "humidity": 55.0,
+      "CO2": 620.0,
+      "lux": 300.0,
+      "noise_db": 40.0
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_after_cooking",
+    "sentence": "I just finished making dinner — the smell from the kitchen is spreading and the room feels warm and hazy.",
+    "state": {
+      "T_air": 30.0,
+      "TVOC": 280.0,
+      "humidity": 70.0,
+      "CO2": 950.0,
+      "PM25": 35.0
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_just_left",
+    "sentence": "I'm heading out for a few hours — please set the room to a standby mode and reduce unnecessary energy consumption.",
+    "state": {
+      "T_air": 25.0,
+      "fan_on": true,
+      "ac_on": true,
+      "light_on": true,
+      "purifier_on": true
+    },
+    "repeat": 20
+  },
+  {
+    "category": "consistency",
+    "name": "con_mold_risk",
+    "sentence": "There's been condensation on the windows and a faint musty smell — I'm worried about the conditions being right for mold.",
+    "state": {
+      "T_air": 24.0,
+      "humidity": 87.0,
+      "TVOC": 130.0,
+      "CO2": 680.0,
+      "purifier_on": false
+    },
+    "repeat": 20
+  }
+]

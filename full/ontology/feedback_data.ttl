@@ -1,0 +1,23 @@
+
+@prefix :    <http://example.com/kg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# 第一个反馈事件
+:Feedback001 a :FeedbackEvent ;
+    :byUser :User01 ;
+    :inContext :OfficeRoom ;
+    :sensor_T_air 26.2 ;
+    :sensor_V_air 0.10 ;
+    :sensor_T_skin 32.5 ;
+    :hasFeedback "感觉闷热，有点不舒服" ;
+    :atTime "2025-05-04T14:03:00"^^xsd:dateTime .
+
+# 第二个反馈事件
+:Feedback002 a :FeedbackEvent ;
+    :byUser :User01 ;
+    :inContext :OfficeRoom ;
+    :sensor_T_air 25.0 ;
+    :sensor_V_air 0.00 ;
+    :sensor_T_skin 30.1 ;
+    :hasFeedback "温度还行，但有点吵" ;
+    :atTime "2025-05-04T16:18:00"^^xsd:dateTime .

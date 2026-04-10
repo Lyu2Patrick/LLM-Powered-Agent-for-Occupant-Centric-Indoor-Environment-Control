@@ -1,0 +1,354 @@
+@prefix : <http://example.com/kg#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:BedRoom a :Room ;
+    :hasDevice :AC2,
+        :fan_dmaker_p8_086d_fan ;
+    :hasName "Bedroom" .
+
+:Feedback001 a :FeedbackEvent ;
+    :atTime "2025-05-04T14:03:00"^^xsd:dateTime ;
+    :byUser :User01 ;
+    :hasFeedback "Feeling stuffy and slightly uncomfortable." ;
+    :inContext :OfficeRoom ;
+    :sensor_T_air 26.2 ;
+    :sensor_T_skin 32.5 ;
+    :sensor_V_air 0.10 .
+
+:Feedback002 a :FeedbackEvent ;
+    :atTime "2025-05-04T16:18:00"^^xsd:dateTime ;
+    :byUser :User01 ;
+    :hasFeedback "Temperature is acceptable, but it's a bit noisy." ;
+    :inContext :OfficeRoom ;
+    :sensor_T_air 25.0 ;
+    :sensor_T_skin 30.1 ;
+    :sensor_V_air 0.00 .
+
+:age a owl:DatatypeProperty ;
+    rdfs:domain :User ;
+    rdfs:range xsd:int .
+
+:atTime a owl:DatatypeProperty ;
+    rdfs:domain [ owl:unionOf ( :FeedbackEvent :EntryEvent ) ] ;
+    rdfs:range xsd:dateTime .
+
+:byUser a owl:ObjectProperty ;
+    rdfs:domain :FeedbackEvent ;
+    rdfs:range :User .
+
+:coolingCapacity a owl:DatatypeProperty ;
+    rdfs:comment "Cooling capacity of the air conditioner (in watts)" ;
+    rdfs:domain :Device ;
+    rdfs:range xsd:float .
+
+:enteredRoom a owl:ObjectProperty ;
+    rdfs:domain :EntryEvent ;
+    rdfs:range :Room .
+
+:fan_dmaker_p8_086d a :Device ;
+    :entityId "fan.dmaker_p8_086d_fan" ;
+    :hasName "卧室风扇 Fan2" ;
+    :hasNumericProperty [ :maxValue 99 ;
+            :minValue 0 ;
+            :propertyName "percentage" ;
+            :step 33 ] ;
+    :hasProperty :alarm,
+        :indicator_light,
+        :off_delay_time ;
+    :supportsMode "Sleep",
+        "Straight Wind" ;
+    :supportsOscillation true .
+
+:gender a owl:DatatypeProperty ;
+    rdfs:domain :User ;
+    rdfs:range xsd:string .
+
+:hasConditionText a owl:DatatypeProperty ;
+    rdfs:comment "Comma-separated list of pre-existing medical conditions (as plain text)" ;
+    rdfs:domain :User ;
+    rdfs:range xsd:string .
+
+:hasDevice a owl:ObjectProperty ;
+    rdfs:domain :Room ;
+    rdfs:range :Device .
+
+:hasFeedback a owl:DatatypeProperty ;
+    rdfs:domain :FeedbackEvent ;
+    rdfs:range xsd:string .
+
+:hasName a owl:DatatypeProperty ;
+    rdfs:domain [ owl:unionOf ( :Room :Device :User :Context ) ] ;
+    rdfs:range xsd:string .
+
+:heightCm a owl:DatatypeProperty ;
+    rdfs:domain :User ;
+    rdfs:range xsd:int .
+
+:inContext a owl:ObjectProperty ;
+    rdfs:domain :FeedbackEvent ;
+    rdfs:range :Context .
+
+:leftRoom a owl:ObjectProperty ;
+    rdfs:domain :ExitEvent ;
+    rdfs:range :Room .
+
+:maxPower a owl:DatatypeProperty ;
+    rdfs:comment "Maximum operating power of the device (in watts)" ;
+    rdfs:domain :Device ;
+    rdfs:range xsd:float .
+
+:minPower a owl:DatatypeProperty ;
+    rdfs:comment "Minimum operating power of the device (in watts)" ;
+    rdfs:domain :Device ;
+    rdfs:range xsd:float .
+
+:nfcTagId a owl:DatatypeProperty ;
+    rdfs:domain :EntryEvent ;
+    rdfs:range xsd:string .
+
+:ButtonDevice a owl:Class ;
+    rdfs:subClassOf :Device ;
+    rdfs:comment "A control button device that triggers an action upon press, such as a fan oscillation toggle." .
+
+:prefersTS a owl:DatatypeProperty ;
+    rdfs:domain :User ;
+    rdfs:range xsd:float .
+
+:sensor_T_air a owl:DatatypeProperty ;
+    rdfs:domain :FeedbackEvent ;
+    rdfs:range xsd:float .
+
+:sensor_T_skin a owl:DatatypeProperty ;
+    rdfs:domain :FeedbackEvent ;
+    rdfs:range xsd:float .
+
+:sensor_V_air a owl:DatatypeProperty ;
+    rdfs:domain :FeedbackEvent ;
+    rdfs:range xsd:float .
+
+:triggeredBy a owl:ObjectProperty ;
+    rdfs:domain :EntryEvent ;
+    rdfs:range :User .
+
+:typicalPower a owl:DatatypeProperty ;
+    rdfs:comment "Typical operating power of the device (in watts, optional)" ;
+    rdfs:domain :Device ;
+    rdfs:range xsd:float .
+
+:weightKg a owl:DatatypeProperty ;
+    rdfs:domain :User ;
+    rdfs:range xsd:int .
+
+:AC2 a :Device ;
+    :hasName "小米空调伴侣_AC2" .
+
+:climate_211106243774073_climate a :Device ;
+    :coolingCapacity 3510 ;
+    :entityId "climate.211106243774073_climate" ;
+    :hasName "Office Air Conditioner" ;
+    :hasNumericProperty [ :maxValue 30.0 ;
+            :minValue 17.0 ;
+            :propertyName "target_temperature" ;
+            :step 0.5 ],
+        [ :maxValue 102 ;
+            :minValue 0 ;
+            :propertyName "fan_speed" ;
+            :step 1 ] ;
+    :maxPower 1900 ;
+    :minPower 70 ;
+    :supportsFanMode "Auto",
+        "Full",
+        "High",
+        "Low",
+        "Medium",
+        "Silent" ;
+    :supportsHvacMode "auto",
+        "cool",
+        "dry",
+        "fan_only",
+        "heat",
+        "off" ;
+    :supportsPresetMode "away",
+        "boost",
+        "comfort",
+        "eco",
+        "none",
+        "sleep" ;
+    :supportsSwingMode "Both",
+        "Horizontal",
+        "Off",
+        "Vertical" ;
+    :typicalPower 1215 .
+
+:dmaker_cn_747042567_p5c_s_2_fan a :Device ;
+    :entityId "fan.dmaker_cn_747042567_p5c_s_2_fan" ;
+    :hasName "Office Fan" ;
+    :hasNumericProperty [ :maxValue 100 ;
+            :minValue 0 ;
+            :propertyName "percentage" ;
+            :step 1 ] ;
+    :hasProperty :off_delay_time,
+        :physical_controls_locked ;
+    :maxPower 20 ;
+    :minPower 3 ;
+    :supportsMode "Natural Wind",
+        "Straight Wind" ;
+    :supportsOscillation true ;
+    :supportsSwingAngle 90 ;
+    :supportsSwingMode "true" ;
+    :hasDiscreteControl :button.dmaker_cn_747042567_p5c_turn_left_a_2_2,
+                         :button.dmaker_cn_747042567_p5c_turn_right_a_2_3 .
+
+:button.dmaker_cn_747042567_p5c_turn_left_a_2_2 a :ButtonDevice ;
+    :entityId "button.dmaker_cn_747042567_p5c_turn_left_a_2_2" ;
+    :hasName "Turn Left Button" ;
+    :controlsAction "turn_left_once" .
+
+:button.dmaker_cn_747042567_p5c_turn_right_a_2_3 a :ButtonDevice ;
+    :entityId "button.dmaker_cn_747042567_p5c_turn_right_a_2_3" ;
+    :hasName "Turn Right Button" ;
+    :controlsAction "turn_right_once" .
+
+:yeelink_cn_876865954_lamp22_s_2 a :Device ;
+    :entityId "light.yeelink_cn_876865954_lamp22_s_2" ;
+    :hasName "Office Light" ;
+    :hasNumericProperty [ :maxValue 6493 ;
+            :minValue 2702 ;
+            :propertyName "color_temp" ;
+            :step 1 ] ;
+    :maxPower 5 ;
+    :minPower 0.5 ;
+    :supportsMode "Computer",
+        "Leisure",
+        "Office",
+        "Reading",
+        "Warmth" ;
+    :typicalPower 5 .
+
+:zhimi_cn_94016577_ma2_s_2_air_purifier a :Device ;
+    :entityId "number.zhimi_cn_94016577_ma2_s_2_air_purifier" ;
+    :hasName "Air purifier" ;
+    :hasNumericProperty [ :maxValue 14 ;
+            :minValue 0 ;
+            :propertyName "favorite_fan_level" ;
+            :step 1 ] ;
+    :supportsMode "favorite" ;
+    :typicalPower 29 .
+
+:zhimi_cn_94016577_ma2_s_2_switch a :Device ;
+    :entityId "fan.zhimi_cn_94016577_ma2_s_2_air_purifier" ;
+    :hasName "Air Purifier Switch" .
+
+:Context a owl:Class .
+
+:ExitEvent a owl:Class .
+
+:Room a owl:Class .
+
+:User02 a :User ;
+    :age "67"^^xsd:int ;
+    :email "zz@sjtu.edu.cn" ;
+    :gender "female" ;
+    :hasConditionText "Hypertension, rhinitis, acute urticaria, risk of cerebrovascular blockage" ;
+    :hasName "Rose" ;
+    :heightCm "157"^^xsd:int ;
+    :prefersNoiseDb "<=55" ;
+    :weightKg "60"^^xsd:int .
+
+:FeedbackEvent a owl:Class .
+
+:User01 a :User ;
+    :age "27"^^xsd:int ;
+    :email "lyujunmeng@sjtu.edu.cn" ;
+    :gender "male" ;
+    :hasConditionText "Allergic constitution, rhinitis" ;
+    :hasName "JunmengLyu" ;
+    :heightCm "187"^^xsd:int ;
+    :prefersNoiseDb "<=55" ;
+    :weightKg "80"^^xsd:int .
+:User03 a :User ;
+    :age "27"^^xsd:int ;
+    :email "xxx@sjtu.edu.cn" ;
+    :gender "male" ;
+    :hasConditionText "None" ;
+    :hasName "Test" ;
+    :heightCm "187"^^xsd:int ;
+    :prefersNoiseDb "<=55" ;
+    :weightKg "80"^^xsd:int .
+
+:User04 a :User ;
+    :age "27"^^xsd:int ;
+    :email "ruiqiguo@sjtu.edu.cn" ;
+    :gender "male" ;
+    :hasConditionText "measles" ;
+    :hasName "RuiqiGuo" ;
+    :heightCm "180"^^xsd:int ;
+    :prefersNoiseDb "<=55" ;
+    :weightKg "84"^^xsd:int .
+
+:User05 a :User ;
+    :age "24"^^xsd:int ;
+    :email "muchenzhou@sjtu.edu.cn" ;
+    :gender "female" ;
+    :hasConditionText "mysophobia" ;
+    :hasName "MuchenZhou" ;
+    :heightCm "164"^^xsd:int ;
+    :prefersNoiseDb "<=55" ;
+    :weightKg "49"^^xsd:int .
+
+:User06 a :User ;
+    :age "24"^^xsd:int ;
+    :email "muchenzhou@sjtu.edu.cn" ;
+    :gender "female" ;
+    :hasConditionText "" ;
+    :hasName "XiLin" ;
+    :heightCm "161"^^xsd:int ;
+    :prefersNoiseDb "" ;
+    :weightKg "52"^^xsd:int .
+:User07 a :User ;
+    :age "28"^^xsd:int ;
+    :email "yongxiangshi@sjtu.edu.cn" ;
+    :gender "male" ;
+    :hasConditionText "" ;
+    :hasName "YongxiangShi" ;
+    :heightCm "175"^^xsd:int ;
+    :prefersNoiseDb "" ;
+    :weightKg "62"^^xsd:int .
+
+:User08 a :User ;
+    :age "24"^^xsd:int ;
+    :email "xdzhang@sjtu.edu.cn" ;
+    :gender "male" ;
+    :hasConditionText "" ;
+    :hasName "XudongZhang" ;
+    :heightCm "176"^^xsd:int ;
+    :prefersNoiseDb "" ;
+    :weightKg "70"^^xsd:int .
+
+:User09 a :User ;
+    :age "30"^^xsd:int ;
+    :email "XXX@sjtu.edu.cn" ;
+    :gender "female" ;
+    :hasConditionText "Allergic constitution" ;
+    :hasName "TingNie" ;
+    :heightCm "165"^^xsd:int ;
+    :prefersNoiseDb "" ;
+    :weightKg "62"^^xsd:int .
+
+:Office a :Room ;
+    :hasDevice :climate_211106243774073_climate,
+        :dmaker_cn_747042567_p5c_s_2_fan,
+        :yeelink_cn_876865954_lamp22_s_2,
+        :zhimi_cn_94016577_ma2_s_2_air_purifier,
+        :zhimi_cn_94016577_ma2_s_2_switch;
+    :hasName "Office" .
+
+:User a owl:Class .
+
+:Device a owl:Class .
+
+:EntryEvent a owl:Class .
+
