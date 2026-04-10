@@ -2,7 +2,7 @@
 
 Source code and supplementary material for:
 
-> **"LLM-Driven Personalized Indoor Environment Control: An Ontology-Grounded Approach"**
+> **"LLM-Powered Agent for Occupant-Centric Indoor Environment Control: Design, Implementation, and Evaluation"**
 
 ---
 
